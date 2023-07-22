@@ -1,9 +1,4 @@
 CardImageURLs:
-SC01/SC01-007.jpg	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/sets/setimages/SC01/SC01-007.jpg
-SC01/SC01-008.jpg	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/sets/setimages/SC01/SC01-008.jpg
-SC01/SC01-009.jpg	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/sets/setimages/SC01/SC01-009.jpg
-SC01/SC01-010.jpg	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/sets/setimages/SC01/SC01-010.jpg
-
 AD01/AD01-001.jpg	https://dl.dropboxusercontent.com/s/85zrj1v5rf07y3m/AD01-001.png
 AD01/AD01-002.jpg	https://dl.dropboxusercontent.com/s/at8rpymq4y9ll09/AD01-002.png
 AD01/AD01-003.jpg	https://dl.dropboxusercontent.com/s/kzokflfre7vmrr0/AD01-003.png
