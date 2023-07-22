@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>FECipher0</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="B15-060R_SAMPLE">Elise, Pure Princess of Vivid Flowers</name><set>B15</set></card>
+		<card><name id="B15-060R_SAMPLE">Elise, Pure Princess of Vivid Flowers</name><set>B15</set></card>
+		<card><name id="B15-060R_SAMPLE">Elise, Pure Princess of Vivid Flowers</name><set>B15</set></card>
+		<card><name id="B17-051R_SAMPLE">Elise, Innocent Loving Sister</name><set>B17</set></card>
+		<card><name id="B17-051R_SAMPLE">Elise, Innocent Loving Sister</name><set>B17</set></card>
+		<card><name id="B17-051R_SAMPLE">Elise, Innocent Loving Sister</name><set>B17</set></card>
+		<card><name id="B17-051R_SAMPLE">Elise, Innocent Loving Sister</name><set>B17</set></card>
+		<card><name id="BR01-30">Elise, Galavanting Troublemaker</name><set>BR01</set></card>
+		<card><name id="BR01-30">Elise, Galavanting Troublemaker</name><set>BR01</set></card>
+		<card><name id="BR01-30">Elise, Galavanting Troublemaker</name><set>BR01</set></card>
+		<card><name id="B02-062SR_SAMPLE">Elise, Shining Star in the Black Skies</name><set>B02</set></card>
+		<card><name id="B02-062SR_SAMPLE">Elise, Shining Star in the Black Skies</name><set>B02</set></card>
+		<card><name id="BR01-31">Elise, Blossoming Talent</name><set>BR01</set></card>
+		<card><name id="BR01-31">Elise, Blossoming Talent</name><set>BR01</set></card>
+		<card><name id="BR01-31">Elise, Blossoming Talent</name><set>BR01</set></card>
+		<card><name id="BR01-31">Elise, Blossoming Talent</name><set>BR01</set></card>
+		<card><name id="CM01-007">Laegjarn, Unquenchable Steel</name><set>CM01</set></card>
+		<card><name id="CM01-007">Laegjarn, Unquenchable Steel</name><set>CM01</set></card>
+		<card><name id="CM01-007">Laegjarn, Unquenchable Steel</name><set>CM01</set></card>
+		<card><name id="CM01-007">Laegjarn, Unquenchable Steel</name><set>CM01</set></card>
+		<card><name id="B21-091SR_SAMPLE">Peony, Sweet Dream-Bringing Lass</name><set>B21</set></card>
+		<card><name id="B21-091SR_SAMPLE">Peony, Sweet Dream-Bringing Lass</name><set>B21</set></card>
+		<card><name id="B21-091SR_SAMPLE">Peony, Sweet Dream-Bringing Lass</name><set>B21</set></card>
+		<card><name id="B21-091SR_SAMPLE">Peony, Sweet Dream-Bringing Lass</name><set>B21</set></card>
+		<card><name id="BR01-33">Effie, Fierce Protector</name><set>BR01</set></card>
+		<card><name id="BR01-33">Effie, Fierce Protector</name><set>BR01</set></card>
+		<card><name id="BR01-33">Effie, Fierce Protector</name><set>BR01</set></card>
+		<card><name id="BR01-33">Effie, Fierce Protector</name><set>BR01</set></card>
+		<card><name id="B16-094R_SAMPLE">Thrasir, Omnicidal Witch</name><set>B16</set></card>
+		<card><name id="B16-094R_SAMPLE">Thrasir, Omnicidal Witch</name><set>B16</set></card>
+		<card><name id="B16-094R_SAMPLE">Thrasir, Omnicidal Witch</name><set>B16</set></card>
+		<card><name id="B16-094R_SAMPLE">Thrasir, Omnicidal Witch</name><set>B16</set></card>
+		<card><name id="BR01-39">Iago, the Machiavellian</name><set>BR01</set></card>
+		<card><name id="BR01-39">Iago, the Machiavellian</name><set>BR01</set></card>
+		<card><name id="B17-049SR_SAMPLE">Camilla, Nohr-Scorching Mania</name><set>B17</set></card>
+		<card><name id="B17-049SR_SAMPLE">Camilla, Nohr-Scorching Mania</name><set>B17</set></card>
+		<card><name id="B17-049SR_SAMPLE">Camilla, Nohr-Scorching Mania</name><set>B17</set></card>
+		<card><name id="B17-049SR_SAMPLE">Camilla, Nohr-Scorching Mania</name><set>B17</set></card>
+		<card><name id="B14-072SR_SAMPLE">Leo, Sorcerous King of the Dark</name><set>B14</set></card>
+		<card><name id="B14-072SR_SAMPLE">Leo, Sorcerous King of the Dark</name><set>B14</set></card>
+		<card><name id="B14-072SR_SAMPLE">Leo, Sorcerous King of the Dark</name><set>B14</set></card>
+		<card><name id="B10-057SR_SAMPLE">Corrin (Female), Divine Daughter of the Darkening Dusk Dragon</name><set>B10</set></card>
+		<card><name id="B10-057SR_SAMPLE">Corrin (Female), Divine Daughter of the Darkening Dusk Dragon</name><set>B10</set></card>
+		<card><name id="B10-057SR_SAMPLE">Corrin (Female), Divine Daughter of the Darkening Dusk Dragon</name><set>B10</set></card>
+		<card><name id="B10-057SR_SAMPLE">Corrin (Female), Divine Daughter of the Darkening Dusk Dragon</name><set>B10</set></card>
+		<card><name id="B20-023SR_SAMPLE">Xander, Pure King of Dusk Walking with the Dawn</name><set>B20</set></card>
+		<card><name id="B20-023SR_SAMPLE">Xander, Pure King of Dusk Walking with the Dawn</name><set>B20</set></card>
+		<card><name id="B20-023SR_SAMPLE">Xander, Pure King of Dusk Walking with the Dawn</name><set>B20</set></card>
+		<card><name id="B20-023SR_SAMPLE">Xander, Pure King of Dusk Walking with the Dawn</name><set>B20</set></card>
+	</superzone>
+	<superzone name="MC">
+		<card><name id="B11-087N_SAMPLE">Elise, Sweet Magical Smash</name><set>B11</set></card>
+	</superzone>
+</deck>

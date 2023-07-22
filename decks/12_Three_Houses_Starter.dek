@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>FECipher0</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="S12-001ST_SAMPLE.png">Byleth (Female), The Creator&apos;s Entrusted</name><set>S12</set></card>
+		<card><name id="S12-001ST_SAMPLE.png">Byleth (Female), The Creator&apos;s Entrusted</name><set>S12</set></card>
+		<card><name id="S12-001ST_SAMPLE.png">Byleth (Female), The Creator&apos;s Entrusted</name><set>S12</set></card>
+		<card><name id="S12-001STplus_SAMPLE.png">Byleth (Female), The Creator&apos;s Entrusted+</name><set>S12</set></card>
+		<card><name id="S12-002STplus_SAMPLE.png">Byleth (Female), Young Mercenary Swordswoman+</name><set>S12</set></card>
+		<card><name id="S12-004ST_SAMPLE.png">Edelgard, Unshakable Will of Flames</name><set>S12</set></card>
+		<card><name id="S12-004ST_SAMPLE.png">Edelgard, Unshakable Will of Flames</name><set>S12</set></card>
+		<card><name id="S12-004ST_SAMPLE.png">Edelgard, Unshakable Will of Flames</name><set>S12</set></card>
+		<card><name id="S12-004ST_SAMPLE.png">Edelgard, Unshakable Will of Flames</name><set>S12</set></card>
+		<card><name id="S12-005ST_SAMPLE.png">Dimitri, Noble Schooled in Pen and Sword</name><set>S12</set></card>
+		<card><name id="S12-005ST_SAMPLE.png">Dimitri, Noble Schooled in Pen and Sword</name><set>S12</set></card>
+		<card><name id="S12-007ST_SAMPLE.png">Flayn, Monastery-Inhabiting Girl</name><set>S12</set></card>
+		<card><name id="S12-007ST_SAMPLE.png">Flayn, Monastery-Inhabiting Girl</name><set>S12</set></card>
+		<card><name id="B18-006ST_SAMPLE.png">Edelgard, House Leader of the Black Eagles+</name><set>B18</set></card>
+		<card><name id="B18-006ST_SAMPLE.png">Edelgard, House Leader of the Black Eagles+</name><set>B18</set></card>
+		<card><name id="B18-007ST_SAMPLE.png">Hubert, Officer Serving the Imperial Princess+</name><set>B18</set></card>
+		<card><name id="B18-007ST_SAMPLE.png">Hubert, Officer Serving the Imperial Princess+</name><set>B18</set></card>
+		<card><name id="B18-007ST_SAMPLE.png">Hubert, Officer Serving the Imperial Princess+</name><set>B18</set></card>
+		<card><name id="B18-009ST_SAMPLE.png">Ferdinand, Lordling of House Aegir+</name><set>B18</set></card>
+		<card><name id="B18-009ST_SAMPLE.png">Ferdinand, Lordling of House Aegir+</name><set>B18</set></card>
+		<card><name id="B18-009ST_SAMPLE.png">Ferdinand, Lordling of House Aegir+</name><set>B18</set></card>
+		<card><name id="B18-008R_SAMPLE.png">Ferdinand, With Pride in His Great Noble Family</name><set>B18</set></card>
+		<card><name id="B18-043R_SAMPLE.png">Hilda (Fodlan), Little Miss Pampersome</name><set>B18</set></card>
+		<card><name id="B18-027R_SAMPLE.png">Mercedes, Gentle-Auraed Holy Smile</name><set>B18</set></card>
+		<card><name id="B18-028ST_SAMPLE.png">Mercedes, Kind and Cheerful Schoolgirl+</name><set>B18</set></card>
+		<card><name id="B18-028ST_SAMPLE.png">Mercedes, Kind and Cheerful Schoolgirl+</name><set>B18</set></card>
+		<card><name id="B18-013ST_SAMPLE.png">Bernadetta, Reclusive Daughter of House Varley+</name><set>B18</set></card>
+		<card><name id="B18-013ST_SAMPLE.png">Bernadetta, Reclusive Daughter of House Varley+</name><set>B18</set></card>
+		<card><name id="B18-015ST_SAMPLE.png">Dorothea, Ex-Opera Company Songstress+</name><set>B18</set></card>
+		<card><name id="B18-015ST_SAMPLE.png">Dorothea, Ex-Opera Company Songstress+</name><set>B18</set></card>
+		<card><name id="B18-020ST_SAMPLE.png">Dimitri, House Leader of the Blue Lions+</name><set>B18</set></card>
+		<card><name id="B18-022ST_SAMPLE.png">Dedue, Intimidating Vassal+</name><set>B18</set></card>
+		<card><name id="B18-022ST_SAMPLE.png">Dedue, Intimidating Vassal+</name><set>B18</set></card>
+		<card><name id="B18-022ST_SAMPLE.png">Dedue, Intimidating Vassal+</name><set>B18</set></card>
+		<card><name id="B18-031ST_SAMPLE.png">Ingrid, The Hope of House Galatea+</name><set>B18</set></card>
+		<card><name id="B18-031ST_SAMPLE.png">Ingrid, The Hope of House Galatea+</name><set>B18</set></card>
+		<card><name id="B18-031ST_SAMPLE.png">Ingrid, The Hope of House Galatea+</name><set>B18</set></card>
+		<card><name id="B18-036ST_SAMPLE.png">Raphael, Youth With a Big Appetite+</name><set>B18</set></card>
+		<card><name id="B18-036ST_SAMPLE.png">Raphael, Youth With a Big Appetite+</name><set>B18</set></card>
+		<card><name id="B18-045ST_SAMPLE.png">Leonie, The Blade Breaker&apos;s Foremost Apprentice+</name><set>B18</set></card>
+		<card><name id="B18-045ST_SAMPLE.png">Leonie, The Blade Breaker&apos;s Foremost Apprentice+</name><set>B18</set></card>
+		<card><name id="B18-045ST_SAMPLE.png">Leonie, The Blade Breaker&apos;s Foremost Apprentice+</name><set>B18</set></card>
+		<card><name id="B18-040ST_SAMPLE.png">Lysithea, Prodigy of House Ordelia+</name><set>B18</set></card>
+		<card><name id="B18-040ST_SAMPLE.png">Lysithea, Prodigy of House Ordelia+</name><set>B18</set></card>
+		<card><name id="S12-003ST_SAMPLE.png">Sothis, Girl Glimpsed in a Dream</name><set>S12</set></card>
+		<card><name id="S12-003ST_SAMPLE.png">Sothis, Girl Glimpsed in a Dream</name><set>S12</set></card>
+		<card><name id="S12-006ST_SAMPLE.png">Claude, Easygoing Schemer</name><set>S12</set></card>
+		<card><name id="S12-006ST_SAMPLE.png">Claude, Easygoing Schemer</name><set>S12</set></card>
+		<card><name id="B18-034ST_SAMPLE.png">Claude, House Leader of the Golden Deer+</name><set>B18</set></card>
+	</superzone>
+	<superzone name="MC">
+		<card><name id="S12-002STplus_SAMPLE.png">Byleth (Female), Young Mercenary Swordswoman+</name><set>S12</set></card>
+	</superzone>
+</deck>

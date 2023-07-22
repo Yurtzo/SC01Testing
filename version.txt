@@ -1,0 +1,9 @@
+<version>
+
+<lastupdateYYMMDD>230208</lastupdateYYMMDD>
+<quality>HIGH</quality>
+<versionurl>https://dl.dropboxusercontent.com/s/962dgtkb4vcilks/version.txt</versionurl>
+<updateurl>https://dl.dropboxusercontent.com/s/8lmoxpytioi4drk/updatelist.txt</updateurl>
+<message>BZ01 and CC02 added.</message>
+
+</version>

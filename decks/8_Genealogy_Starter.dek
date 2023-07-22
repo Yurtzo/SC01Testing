@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>FECipher0</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="S08-004ST_SAMPLE.png">Arden, Castle Guardsman</name><set>S08</set></card>
+		<card><name id="S08-004ST_SAMPLE.png">Arden, Castle Guardsman</name><set>S08</set></card>
+		<card><name id="S08-002ST_SAMPLE.png">Deirdre, Tragic Saint</name><set>S08</set></card>
+		<card><name id="S08-002ST_SAMPLE.png">Deirdre, Tragic Saint</name><set>S08</set></card>
+		<card><name id="S08-002STplus_SAMPLE.png">Deirdre, Tragic Saint+</name><set>S08</set></card>
+		<card><name id="S08-003STplus_SAMPLE.png">Quan, Knight of Nova+</name><set>S08</set></card>
+		<card><name id="S08-003STplus_SAMPLE.png">Quan, Knight of Nova+</name><set>S08</set></card>
+		<card><name id="S08-001ST_SAMPLE.png">Sigurd, Heir to the Holy Blood</name><set>S08</set></card>
+		<card><name id="S08-001ST_SAMPLE.png">Sigurd, Heir to the Holy Blood</name><set>S08</set></card>
+		<card><name id="S08-001ST_SAMPLE.png">Sigurd, Heir to the Holy Blood</name><set>S08</set></card>
+		<card><name id="S08-001STplus_SAMPLE.png">Sigurd, Heir to the Holy Blood+</name><set>S08</set></card>
+		<card><name id="B06-003HN_SAMPLE.png">Sigurd, Prince of Chalphy</name><set>B06</set></card>
+		<card><name id="B06-003HN_SAMPLE.png">Sigurd, Prince of Chalphy</name><set>B06</set></card>
+		<card><name id="B06-007STplus_SAMPLE.png">Quan, Prince of Leonster+</name><set>B06</set></card>
+		<card><name id="B06-007STplus_SAMPLE.png">Quan, Prince of Leonster+</name><set>B06</set></card>
+		<card><name id="B06-009STplus_SAMPLE.png">Eldigan, Prince of Nordion+</name><set>B06</set></card>
+		<card><name id="B06-009STplus_SAMPLE.png">Eldigan, Prince of Nordion+</name><set>B06</set></card>
+		<card><name id="B06-013N_SAMPLE.png">Finn, Knight-in-Training</name><set>B06</set></card>
+		<card><name id="B06-013N_SAMPLE.png">Finn, Knight-in-Training</name><set>B06</set></card>
+		<card><name id="B06-017N_SAMPLE.png">Alec, Sharp-Tongued Green Knight</name><set>B06</set></card>
+		<card><name id="B06-017N_SAMPLE.png">Alec, Sharp-Tongued Green Knight</name><set>B06</set></card>
+		<card><name id="B06-017N_SAMPLE.png">Alec, Sharp-Tongued Green Knight</name><set>B06</set></card>
+		<card><name id="B06-016HN_SAMPLE.png">Alec, Green Blade of Self-Protection</name><set>B06</set></card>
+		<card><name id="B06-020N_SAMPLE.png">Midir, Pining Bow</name><set>B06</set></card>
+		<card><name id="B06-020N_SAMPLE.png">Midir, Pining Bow</name><set>B06</set></card>
+		<card><name id="B06-026HN_SAMPLE.png">Ayra, Princess of Isaach</name><set>B06</set></card>
+		<card><name id="B06-026HN_SAMPLE.png">Ayra, Princess of Isaach</name><set>B06</set></card>
+		<card><name id="B06-035HN_SAMPLE.png">Lewyn, Wayward Troubadour</name><set>B06</set></card>
+		<card><name id="B06-035HN_SAMPLE.png">Lewyn, Wayward Troubadour</name><set>B06</set></card>
+		<card><name id="B06-011N_SAMPLE.png">Ethlyn, Spirited Princess</name><set>B06</set></card>
+		<card><name id="B06-011N_SAMPLE.png">Ethlyn, Spirited Princess</name><set>B06</set></card>
+		<card><name id="B06-011N_SAMPLE.png">Ethlyn, Spirited Princess</name><set>B06</set></card>
+		<card><name id="B06-036R_SAMPLE.png">Silvia, Traveling Dancer</name><set>B06</set></card>
+		<card><name id="B06-005N_SAMPLE.png">Deirdre, Maiden of the Spirit Forest</name><set>B06</set></card>
+		<card><name id="B06-005N_SAMPLE.png">Deirdre, Maiden of the Spirit Forest</name><set>B06</set></card>
+		<card><name id="B06-005N_SAMPLE.png">Deirdre, Maiden of the Spirit Forest</name><set>B06</set></card>
+		<card><name id="S08-005ST_SAMPLE.png">Lex, Lordling of the House of Dozel</name><set>S08</set></card>
+		<card><name id="S08-005ST_SAMPLE.png">Lex, Lordling of the House of Dozel</name><set>S08</set></card>
+		<card><name id="B06-015N_SAMPLE.png">Naoise, Red Chivalry</name><set>B06</set></card>
+		<card><name id="B06-015N_SAMPLE.png">Naoise, Red Chivalry</name><set>B06</set></card>
+		<card><name id="B06-015N_SAMPLE.png">Naoise, Red Chivalry</name><set>B06</set></card>
+		<card><name id="B06-014HN_SAMPLE.png">Naoise, Red Blade of Grim Resolve</name><set>B06</set></card>
+		<card><name id="B06-019N_SAMPLE.png">Azelle, Lordling of Veltomer</name><set>B06</set></card>
+		<card><name id="B06-019N_SAMPLE.png">Azelle, Lordling of Veltomer</name><set>B06</set></card>
+		<card><name id="B06-018HN_SAMPLE.png">Azelle, Shining Flame of Kindness</name><set>B06</set></card>
+		<card><name id="B06-039N_SAMPLE.png">Erinys, Wings in Search of Her Master</name><set>B06</set></card>
+		<card><name id="B06-039N_SAMPLE.png">Erinys, Wings in Search of Her Master</name><set>B06</set></card>
+		<card><name id="B06-039N_SAMPLE.png">Erinys, Wings in Search of Her Master</name><set>B06</set></card>
+		<card><name id="B06-038R_SAMPLE.png">Erinys, Blizzard Flier</name><set>B06</set></card>
+	</superzone>
+	<superzone name="MC">
+		<card><name id="B06-003STplus_SAMPLE.png">Sigurd, Prince of Chalphy+</name><set>B06</set></card>
+	</superzone>
+</deck>

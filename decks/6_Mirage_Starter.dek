@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>FECipher0</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="S06-004STplus_SAMPLE.png">Kiria Kurono, Quirky Charisma+</name><set>S06</set></card>
+		<card><name id="S06-004ST_SAMPLE.png">Kiria Kurono, Quirky Charisma</name><set>S06</set></card>
+		<card><name id="S06-003STplus_SAMPLE.png">Touma Akagi, Explosive Hero+</name><set>S06</set></card>
+		<card><name id="S06-003ST_SAMPLE.png">Touma Akagi, Explosive Hero</name><set>S06</set></card>
+		<card><name id="S06-002STplus_SAMPLE.png">Tsubasa Oribe, The Pegasus Idol+</name><set>S06</set></card>
+		<card><name id="S06-002ST_SAMPLE.png">Tsubasa Oribe, The Pegasus Idol</name><set>S06</set></card>
+		<card><name id="S06-002ST_SAMPLE.png">Tsubasa Oribe, The Pegasus Idol</name><set>S06</set></card>
+		<card><name id="S06-002ST_SAMPLE.png">Tsubasa Oribe, The Pegasus Idol</name><set>S06</set></card>
+		<card><name id="B04-003HN_SAMPLE.png">Tsubasa Oribe, High School Dreamer</name><set>B04</set></card>
+		<card><name id="B04-003HN_SAMPLE.png">Tsubasa Oribe, High School Dreamer</name><set>B04</set></card>
+		<card><name id="B04-008N_SAMPLE.png">Cain, The Phantom Lionheart</name><set>B04</set></card>
+		<card><name id="B04-021HN_SAMPLE.png">Yumina, Noble Princess Sister</name><set>B04</set></card>
+		<card><name id="B04-021HN_SAMPLE.png">Yumina, Noble Princess Sister</name><set>B04</set></card>
+		<card><name id="B04-022N_SAMPLE.png">Yumina, Princess of Grust</name><set>B04</set></card>
+		<card><name id="B04-022N_SAMPLE.png">Yumina, Princess of Grust</name><set>B04</set></card>
+		<card><name id="B04-023HN_SAMPLE.png">Yubello, Bright Prince Brother</name><set>B04</set></card>
+		<card><name id="B04-023HN_SAMPLE.png">Yubello, Bright Prince Brother</name><set>B04</set></card>
+		<card><name id="B04-024N_SAMPLE.png">Yubello, Prince of Grust</name><set>B04</set></card>
+		<card><name id="B04-024N_SAMPLE.png">Yubello, Prince of Grust</name><set>B04</set></card>
+		<card><name id="B04-054N_SAMPLE.png">Chrom, Neophyte Phantom Prince</name><set>B04</set></card>
+		<card><name id="B04-054N_SAMPLE.png">Chrom, Neophyte Phantom Prince</name><set>B04</set></card>
+		<card><name id="B04-054N_SAMPLE.png">Chrom, Neophyte Phantom Prince</name><set>B04</set></card>
+		<card><name id="B04-077N_SAMPLE.png">Say&apos;ri, Princess of Reverance</name><set>B04</set></card>
+		<card><name id="B04-077N_SAMPLE.png">Say&apos;ri, Princess of Reverance</name><set>B04</set></card>
+		<card><name id="B04-077N_SAMPLE.png">Say&apos;ri, Princess of Reverance</name><set>B04</set></card>
+		<card><name id="B04-076R_SAMPLE.png">Say&apos;ri, Sword Princess of the Resistance</name><set>B04</set></card>
+		<card><name id="B04-087R_SAMPLE.png">Inigo, Bringer of Smiles</name><set>B04</set></card>
+		<card><name id="B04-088N_SAMPLE.png">Inigo, Shy Mercenary</name><set>B04</set></card>
+		<card><name id="B04-088N_SAMPLE.png">Inigo, Shy Mercenary</name><set>B04</set></card>
+		<card><name id="B04-007HN_SAMPLE.png">Touma Akagi, Extraordinary Extra</name><set>B04</set></card>
+		<card><name id="B04-007HN_SAMPLE.png">Touma Akagi, Extraordinary Extra</name><set>B04</set></card>
+		<card><name id="B04-098HN_SAMPLE.png">Nah, Little Miss</name><set>B04</set></card>
+		<card><name id="B04-093N_SAMPLE.png">Cynthia, Hero Chaser</name><set>B04</set></card>
+		<card><name id="B04-093N_SAMPLE.png">Cynthia, Hero Chaser</name><set>B04</set></card>
+		<card><name id="B04-093N_SAMPLE.png">Cynthia, Hero Chaser</name><set>B04</set></card>
+		<card><name id="S06-005STplus_SAMPLE.png">Eleonora Yumizuru, Aiming for Hollywood!+</name><set>S06</set></card>
+		<card><name id="S06-005ST_SAMPLE.png">Eleonora Yumizuru, Aiming for Hollywood!</name><set>S06</set></card>
+		<card><name id="B04-096N_SAMPLE.png">Yarne, Timid Taguel</name><set>B04</set></card>
+		<card><name id="S06-001ST_SAMPLE.png">Itsuki Aoi, Lord-Chosen Youth</name><set>S06</set></card>
+		<card><name id="S06-001ST_SAMPLE.png">Itsuki Aoi, Lord-Chosen Youth</name><set>S06</set></card>
+		<card><name id="S06-001ST_SAMPLE.png">Itsuki Aoi, Lord-Chosen Youth</name><set>S06</set></card>
+		<card><name id="S06-001STplus_SAMPLE.png">Itsuki Aoi, Lord-Chosen Youth+</name><set>S06</set></card>
+		<card><name id="B04-004N_SAMPLE.png">Caeda, Mirage Pegasus Knight</name><set>B04</set></card>
+		<card><name id="B04-004N_SAMPLE.png">Caeda, Mirage Pegasus Knight</name><set>B04</set></card>
+		<card><name id="B04-004N_SAMPLE.png">Caeda, Mirage Pegasus Knight</name><set>B04</set></card>
+		<card><name id="B04-017HN_SAMPLE.png">Tiki, Mirage Uta-loid</name><set>B04</set></card>
+		<card><name id="B04-017STplus_SAMPLE.png">Tiki, Mirage Uta-loid+</name><set>B04</set></card>
+		<card><name id="B04-020N_SAMPLE.png">Ogma, Hero of the War of Shadows</name><set>B04</set></card>
+		<card><name id="B04-053HN_SAMPLE.png">Itsuki Aoi, Everyman</name><set>B04</set></card>
+	</superzone>
+	<superzone name="MC">
+		<card><name id="B04-053HN_SAMPLE.png">Itsuki Aoi, Everyman</name><set>B04</set></card>
+	</superzone>
+</deck>

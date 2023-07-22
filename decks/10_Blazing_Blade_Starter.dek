@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>FECipher0</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="S10-005ST_SAMPLE.png">Marcus, Knight of Pherae</name><set>S10</set></card>
+		<card><name id="S10-005ST_SAMPLE.png">Marcus, Knight of Pherae</name><set>S10</set></card>
+		<card><name id="S10-003ST_SAMPLE.png">Florina, Kind Wings of Closeness</name><set>S10</set></card>
+		<card><name id="S10-003ST_SAMPLE.png">Florina, Kind Wings of Closeness</name><set>S10</set></card>
+		<card><name id="S10-004ST_SAMPLE.png">Erk, Mage-In-Training</name><set>S10</set></card>
+		<card><name id="S10-004ST_SAMPLE.png">Erk, Mage-In-Training</name><set>S10</set></card>
+		<card><name id="S10-002ST_SAMPLE.png">Eliwood, Blazing Sovereign</name><set>S10</set></card>
+		<card><name id="S10-002ST_SAMPLE.png">Eliwood, Blazing Sovereign</name><set>S10</set></card>
+		<card><name id="S10-002ST_SAMPLE.png">Eliwood, Blazing Sovereign</name><set>S10</set></card>
+		<card><name id="S10-002ST_SAMPLE.png">Eliwood, Blazing Sovereign</name><set>S10</set></card>
+		<card><name id="B13-009ST_SAMPLE.png">Wil, Traveling Archer+</name><set>B13</set></card>
+		<card><name id="B13-009ST_SAMPLE.png">Wil, Traveling Archer+</name><set>B13</set></card>
+		<card><name id="B13-008ST_SAMPLE.png">Wil, Archer Without Equal+</name><set>B13</set></card>
+		<card><name id="B13-011ST_SAMPLE.png">Dorcas, Family-Loving Fighter+</name><set>B13</set></card>
+		<card><name id="B13-011ST_SAMPLE.png">Dorcas, Family-Loving Fighter+</name><set>B13</set></card>
+		<card><name id="B13-011ST_SAMPLE.png">Dorcas, Family-Loving Fighter+</name><set>B13</set></card>
+		<card><name id="B13-010ST_SAMPLE.png">Dorcas, Serene Grand Axe+</name><set>B13</set></card>
+		<card><name id="B13-010ST_SAMPLE.png">Dorcas, Serene Grand Axe+</name><set>B13</set></card>
+		<card><name id="B13-003ST_SAMPLE.png">Eliwood, Crimson-Haired Lordling+</name><set>B13</set></card>
+		<card><name id="B13-003ST_SAMPLE.png">Eliwood, Crimson-Haired Lordling+</name><set>B13</set></card>
+		<card><name id="B13-007ST_SAMPLE.png">Florina, Journeying With Her Close Friend+</name><set>B13</set></card>
+		<card><name id="B13-007ST_SAMPLE.png">Florina, Journeying With Her Close Friend+</name><set>B13</set></card>
+		<card><name id="B13-007ST_SAMPLE.png">Florina, Journeying With Her Close Friend+</name><set>B13</set></card>
+		<card><name id="B13-021ST_SAMPLE.png">Guy, Burgeoning Talent+</name><set>B13</set></card>
+		<card><name id="B13-021ST_SAMPLE.png">Guy, Burgeoning Talent+</name><set>B13</set></card>
+		<card><name id="B13-020ST_SAMPLE.png">Hector, Vibrant Man of Steel+</name><set>B13</set></card>
+		<card><name id="B13-020ST_SAMPLE.png">Hector, Vibrant Man of Steel+</name><set>B13</set></card>
+		<card><name id="B13-032ST_SAMPLE.png">Louise, Prospective Fiancee of Reglay+</name><set>B13</set></card>
+		<card><name id="B13-032ST_SAMPLE.png">Louise, Prospective Fiancee of Reglay+</name><set>B13</set></card>
+		<card><name id="B13-018ST_SAMPLE.png">Lowen, Food-Fixated Journeyman Knight+</name><set>B13</set></card>
+		<card><name id="B13-018ST_SAMPLE.png">Lowen, Food-Fixated Journeyman Knight+</name><set>B13</set></card>
+		<card><name id="B13-018ST_SAMPLE.png">Lowen, Food-Fixated Journeyman Knight+</name><set>B13</set></card>
+		<card><name id="B13-017ST_SAMPLE.png">Lowen, Roiling Blood of a Chef+</name><set>B13</set></card>
+		<card><name id="B13-017ST_SAMPLE.png">Lowen, Roiling Blood of a Chef+</name><set>B13</set></card>
+		<card><name id="B13-015ST_SAMPLE.png">Matthew, Cheerful Spy+</name><set>B13</set></card>
+		<card><name id="B13-015ST_SAMPLE.png">Matthew, Cheerful Spy+</name><set>B13</set></card>
+		<card><name id="B13-030ST_SAMPLE.png">Pent, Young Marquess of Reglay+</name><set>B13</set></card>
+		<card><name id="B13-030ST_SAMPLE.png">Pent, Young Marquess of Reglay+</name><set>B13</set></card>
+		<card><name id="B13-013ST_SAMPLE.png">Serra, Sweet, Helpless (?) Little Cleric+</name><set>B13</set></card>
+		<card><name id="B13-013ST_SAMPLE.png">Serra, Sweet, Helpless (?) Little Cleric+</name><set>B13</set></card>
+		<card><name id="B13-013ST_SAMPLE.png">Serra, Sweet, Helpless (?) Little Cleric+</name><set>B13</set></card>
+		<card><name id="S10-001STplus_SAMPLE.png">Lyn, Myrmidon of the Earth and Sky+</name><set>S10</set></card>
+		<card><name id="S10-001ST_SAMPLE.png">Lyn, Myrmidon of the Earth and Sky</name><set>S10</set></card>
+		<card><name id="S10-001ST_SAMPLE.png">Lyn, Myrmidon of the Earth and Sky</name><set>S10</set></card>
+		<card><name id="S10-001ST_SAMPLE.png">Lyn, Myrmidon of the Earth and Sky</name><set>S10</set></card>
+		<card><name id="B13-005N_SAMPLE.png">Lyn, Swordswoman of the Lorca Tribe</name><set>B13</set></card>
+		<card><name id="B13-029R_SAMPLE.png">Pent, The Living Legends&apos; Disciple</name><set>B13</set></card>
+		<card><name id="B13-027R_SAMPLE.png">Ninian, A Fateful Encounter</name><set>B13</set></card>
+		<card><name id="B13-031R_SAMPLE.png">Louise, Bow of Boundless Love</name><set>B13</set></card>
+	</superzone>
+	<superzone name="MC">
+		<card><name id="B13-005ST_SAMPLE.png">Lyn, Swordswoman of the Lorca Tribe+</name><set>B13</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>FECipher0</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="S05-001STplus_SAMPLE.png">Ike, Brave Crimean General+</name><set>S05</set></card>
+		<card><name id="S05-001ST_SAMPLE.png">Ike, Brave Crimean General</name><set>S05</set></card>
+		<card><name id="S05-001ST_SAMPLE.png">Ike, Brave Crimean General</name><set>S05</set></card>
+		<card><name id="S05-001ST_SAMPLE.png">Ike, Brave Crimean General</name><set>S05</set></card>
+		<card><name id="S05-003STplus_SAMPLE.png">Greil, Commander of the Mercenaries+</name><set>S05</set></card>
+		<card><name id="S05-003ST_SAMPLE.png">Greil, Commander of the Mercenaries</name><set>S05</set></card>
+		<card><name id="B03-003HN_SAMPLE.png">Ike, Young Mercenary</name><set>B03</set></card>
+		<card><name id="B03-003HN_SAMPLE.png">Ike, Young Mercenary</name><set>B03</set></card>
+		<card><name id="S05-005ST_SAMPLE.png">Soren, Shrewd Strategist</name><set>S05</set></card>
+		<card><name id="S05-005ST_SAMPLE.png">Soren, Shrewd Strategist</name><set>S05</set></card>
+		<card><name id="S05-005STplus_SAMPLE.png">Soren, Shrewd Strategist+</name><set>S05</set></card>
+		<card><name id="S05-002STplus_SAMPLE.png">Elincia, Princess Upon the Battlefield+</name><set>S05</set></card>
+		<card><name id="S05-002ST_SAMPLE.png">Elincia, Princess Upon the Battlefield</name><set>S05</set></card>
+		<card><name id="S05-004STplus_SAMPLE.png">Mist, Healing Warrior Maiden+</name><set>S05</set></card>
+		<card><name id="S05-004ST_SAMPLE.png">Mist, Healing Warrior Maiden</name><set>S05</set></card>
+		<card><name id="S05-004ST_SAMPLE.png">Mist, Healing Warrior Maiden</name><set>S05</set></card>
+		<card><name id="B03-008STplus_SAMPLE.png">Titania, Deputy Commander of the Mercenaries+</name><set>B03</set></card>
+		<card><name id="B03-008HN_SAMPLE.png">Titania, Deputy Commander of the Mercenaries</name><set>B03</set></card>
+		<card><name id="B03-005N_SAMPLE.png">Elincia, Surviving Princess</name><set>B03</set></card>
+		<card><name id="B03-005N_SAMPLE.png">Elincia, Surviving Princess</name><set>B03</set></card>
+		<card><name id="B03-007N_SAMPLE.png">Mist, Indulging Sister</name><set>B03</set></card>
+		<card><name id="B03-007N_SAMPLE.png">Mist, Indulging Sister</name><set>B03</set></card>
+		<card><name id="B03-011N_SAMPLE.png">Soren, Black-Garbed Staff Officer</name><set>B03</set></card>
+		<card><name id="B03-011N_SAMPLE.png">Soren, Black-Garbed Staff Officer</name><set>B03</set></card>
+		<card><name id="B03-011N_SAMPLE.png">Soren, Black-Garbed Staff Officer</name><set>B03</set></card>
+		<card><name id="B03-012HN_SAMPLE.png">Oscar, Eldest of the Three Mercenary Brothers</name><set>B03</set></card>
+		<card><name id="B03-013N_SAMPLE.png">Oscar, Calm Lance Knight</name><set>B03</set></card>
+		<card><name id="B03-013N_SAMPLE.png">Oscar, Calm Lance Knight</name><set>B03</set></card>
+		<card><name id="B03-014HN_SAMPLE.png">Boyd, Middle of the Three Mercenary Brothers</name><set>B03</set></card>
+		<card><name id="B03-015N_SAMPLE.png">Boyd, Bold Fighter</name><set>B03</set></card>
+		<card><name id="B03-015N_SAMPLE.png">Boyd, Bold Fighter</name><set>B03</set></card>
+		<card><name id="B03-017N_SAMPLE.png">Rolf, Petite Archer</name><set>B03</set></card>
+		<card><name id="B03-017N_SAMPLE.png">Rolf, Petite Archer</name><set>B03</set></card>
+		<card><name id="B03-016HN_SAMPLE.png">Rolf, Youngest of the Three Mercenary Brothers</name><set>B03</set></card>
+		<card><name id="B03-018N_SAMPLE.png">Rhys, Sickly Priest</name><set>B03</set></card>
+		<card><name id="B03-018N_SAMPLE.png">Rhys, Sickly Priest</name><set>B03</set></card>
+		<card><name id="B03-026N_SAMPLE.png">Marcia, Sunny Pegasus Knight</name><set>B03</set></card>
+		<card><name id="B03-025R_SAMPLE.png">Marcia, Brother-Seeking Falcon</name><set>B03</set></card>
+		<card><name id="B03-025R_SAMPLE.png">Marcia, Brother-Seeking Falcon</name><set>B03</set></card>
+		<card><name id="B03-025R_SAMPLE.png">Marcia, Brother-Seeking Falcon</name><set>B03</set></card>
+		<card><name id="B03-028N_SAMPLE.png">Lethe, Girl of the Beast Tribe</name><set>B03</set></card>
+		<card><name id="B03-028N_SAMPLE.png">Lethe, Girl of the Beast Tribe</name><set>B03</set></card>
+		<card><name id="B03-028N_SAMPLE.png">Lethe, Girl of the Beast Tribe</name><set>B03</set></card>
+		<card><name id="B03-033N_SAMPLE.png">Nephenee, Reticent Militiawoman</name><set>B03</set></card>
+		<card><name id="B03-033N_SAMPLE.png">Nephenee, Reticent Militiawoman</name><set>B03</set></card>
+		<card><name id="B03-033N_SAMPLE.png">Nephenee, Reticent Militiawoman</name><set>B03</set></card>
+		<card><name id="B03-032R_SAMPLE.png">Nephenee, Swiftlance for Liberation</name><set>B03</set></card>
+		<card><name id="B03-020N_SAMPLE.png">Gatrie, Armored Amour</name><set>B03</set></card>
+		<card><name id="B03-020N_SAMPLE.png">Gatrie, Armored Amour</name><set>B03</set></card>
+	</superzone>
+	<superzone name="MC">
+		<card><name id="B03-003HN_SAMPLE.png">Ike, Young Mercenary</name><set>B03</set></card>
+	</superzone>
+</deck>

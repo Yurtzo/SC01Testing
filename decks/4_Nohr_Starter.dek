@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>FECipher0</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="S04-003ST_SAMPLE.png">Camilla, Bewitching Malig Knight</name><set>S04</set></card>
+		<card><name id="S04-003STplus_SAMPLE.png">Camilla, Bewitching Malig Knight+</name><set>S04</set></card>
+		<card><name id="S04-004ST_SAMPLE.png">Leo, Gravity Master</name><set>S04</set></card>
+		<card><name id="S04-004STplus_SAMPLE.png">Leo, Gravity Master+</name><set>S04</set></card>
+		<card><name id="S04-002ST_SAMPLE.png">Xander, Crown Prince of Nohr</name><set>S04</set></card>
+		<card><name id="S04-002ST_SAMPLE.png">Xander, Crown Prince of Nohr</name><set>S04</set></card>
+		<card><name id="S04-002STplus_SAMPLE.png">Xander, Crown Prince of Nohr+</name><set>S04</set></card>
+		<card><name id="B02-061N_SAMPLE.png">Leo, Young Prince of Nohr</name><set>B02</set></card>
+		<card><name id="B02-061N_SAMPLE.png">Leo, Young Prince of Nohr</name><set>B02</set></card>
+		<card><name id="B02-061N_SAMPLE.png">Leo, Young Prince of Nohr</name><set>B02</set></card>
+		<card><name id="B02-066R_SAMPLE.png">Peri, Innocent Killer</name><set>B02</set></card>
+		<card><name id="B02-073N_SAMPLE.png">Odin, Potent Force</name><set>B02</set></card>
+		<card><name id="B02-073N_SAMPLE.png">Odin, Potent Force</name><set>B02</set></card>
+		<card><name id="B02-073N_SAMPLE.png">Odin, Potent Force</name><set>B02</set></card>
+		<card><name id="B02-053HN_SAMPLE.png">Corrin (Female), Princess of Nohr</name><set>B02</set></card>
+		<card><name id="S04-001STplus_SAMPLE.png">Corrin (Female), Fateful Princess+</name><set>S04</set></card>
+		<card><name id="S04-001ST_SAMPLE.png">Corrin (Female), Fateful Princess</name><set>S04</set></card>
+		<card><name id="S04-001ST_SAMPLE.png">Corrin (Female), Fateful Princess</name><set>S04</set></card>
+		<card><name id="S04-001ST_SAMPLE.png">Corrin (Female), Fateful Princess</name><set>S04</set></card>
+		<card><name id="B02-067N_SAMPLE.png">Peri, Childish Killer</name><set>B02</set></card>
+		<card><name id="B02-067N_SAMPLE.png">Peri, Childish Killer</name><set>B02</set></card>
+		<card><name id="B02-067N_SAMPLE.png">Peri, Childish Killer</name><set>B02</set></card>
+		<card><name id="B02-063N_SAMPLE.png">Elise, Young Princess of Nohr</name><set>B02</set></card>
+		<card><name id="B02-063N_SAMPLE.png">Elise, Young Princess of Nohr</name><set>B02</set></card>
+		<card><name id="B02-063N_SAMPLE.png">Elise, Young Princess of Nohr</name><set>B02</set></card>
+		<card><name id="B02-088N_SAMPLE.png">Benny, Gentle Giant</name><set>B02</set></card>
+		<card><name id="B02-088N_SAMPLE.png">Benny, Gentle Giant</name><set>B02</set></card>
+		<card><name id="B02-088N_SAMPLE.png">Benny, Gentle Giant</name><set>B02</set></card>
+		<card><name id="B02-081STplus_SAMPLE.png">Jakob, Devoted Servant+</name><set>B02</set></card>
+		<card><name id="B02-079N_SAMPLE.png">Arthur (Nohr), Hapless Hero</name><set>B02</set></card>
+		<card><name id="B02-079N_SAMPLE.png">Arthur (Nohr), Hapless Hero</name><set>B02</set></card>
+		<card><name id="B02-079N_SAMPLE.png">Arthur (Nohr), Hapless Hero</name><set>B02</set></card>
+		<card><name id="B02-057N_SAMPLE.png">Xander, Eldest Prince of Nohr</name><set>B02</set></card>
+		<card><name id="B02-057N_SAMPLE.png">Xander, Eldest Prince of Nohr</name><set>B02</set></card>
+		<card><name id="B02-059N_SAMPLE.png">Camilla, Eldest Princess of Nohr</name><set>B02</set></card>
+		<card><name id="B02-059N_SAMPLE.png">Camilla, Eldest Princess of Nohr</name><set>B02</set></card>
+		<card><name id="B02-059N_SAMPLE.png">Camilla, Eldest Princess of Nohr</name><set>B02</set></card>
+		<card><name id="S04-005ST_SAMPLE.png">Elise, Adorable Strategist</name><set>S04</set></card>
+		<card><name id="S04-005STplus_SAMPLE.png">Elise, Adorable Strategist+</name><set>S04</set></card>
+		<card><name id="B02-054R_SAMPLE.png">Azura, Black Songstress</name><set>B02</set></card>
+		<card><name id="B02-068HN_SAMPLE.png">Beruka, Loveless Edge</name><set>B02</set></card>
+		<card><name id="B02-069N_SAMPLE.png">Beruka, Stoic Assassin</name><set>B02</set></card>
+		<card><name id="B02-069N_SAMPLE.png">Beruka, Stoic Assassin</name><set>B02</set></card>
+		<card><name id="B02-069N_SAMPLE.png">Beruka, Stoic Assassin</name><set>B02</set></card>
+		<card><name id="B02-072R_SAMPLE.png">Odin, Chosen One of Darkness</name><set>B02</set></card>
+		<card><name id="B02-078HN_SAMPLE.png">Arthur (Nohr), Mister Hardluck</name><set>B02</set></card>
+		<card><name id="B02-082N_SAMPLE.png">Gunter, Faithful Inveterate Solider</name><set>B02</set></card>
+		<card><name id="B02-055HN_SAMPLE.png">Azura, Lady of the Surface</name><set>B02</set></card>
+		<card><name id="B02-055HN_SAMPLE.png">Azura, Lady of the Surface</name><set>B02</set></card>
+	</superzone>
+	<superzone name="MC">
+		<card><name id="B02-053HN_SAMPLE.png">Corrin (Female), Princess of Nohr</name><set>B02</set></card>
+	</superzone>
+</deck>

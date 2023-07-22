@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>FECipher0</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="B17-002STplus_SAMPLE.png">Marth, The Future Hero-King+</name><set>B17</set></card>
+		<card><name id="B17-002STplus_SAMPLE.png">Marth, The Future Hero-King+</name><set>B17</set></card>
+		<card><name id="S11-001ST_SAMPLE.png">Marth, Descendant of Anri the Heroic</name><set>S11</set></card>
+		<card><name id="S11-001ST_SAMPLE.png">Marth, Descendant of Anri the Heroic</name><set>S11</set></card>
+		<card><name id="S11-001ST_SAMPLE.png">Marth, Descendant of Anri the Heroic</name><set>S11</set></card>
+		<card><name id="S11-001ST_SAMPLE.png">Marth, Descendant of Anri the Heroic</name><set>S11</set></card>
+		<card><name id="B17-021STplus_SAMPLE.png">Lucina, Brand-Bearing Princess+</name><set>B17</set></card>
+		<card><name id="S11-003ST_SAMPLE.png">Ryoma, Skypiercing Lightning Sword</name><set>S11</set></card>
+		<card><name id="S11-003ST_SAMPLE.png">Ryoma, Skypiercing Lightning Sword</name><set>S11</set></card>
+		<card><name id="S11-004ST_SAMPLE.png">Xander, Earthrending Dark Blade</name><set>S11</set></card>
+		<card><name id="S11-004ST_SAMPLE.png">Xander, Earthrending Dark Blade</name><set>S11</set></card>
+		<card><name id="S11-005ST_SAMPLE.png">Ike, Brave Mercenary</name><set>S11</set></card>
+		<card><name id="S11-005ST_SAMPLE.png">Ike, Brave Mercenary</name><set>S11</set></card>
+		<card><name id="S11-006ST_SAMPLE.png">Roy, Young Lion of Fire</name><set>S11</set></card>
+		<card><name id="S11-006ST_SAMPLE.png">Roy, Young Lion of Fire</name><set>S11</set></card>
+		<card><name id="S11-007ST_SAMPLE.png">Ayra, Almighty Astra</name><set>S11</set></card>
+		<card><name id="S11-007ST_SAMPLE.png">Ayra, Almighty Astra</name><set>S11</set></card>
+		<card><name id="B17-015R_SAMPLE.png">Celica, Determined to Save the World</name><set>B17</set></card>
+		<card><name id="B17-077R_SAMPLE.png">Lilina, Blush of Youth</name><set>B17</set></card>
+		<card><name id="B17-012ST_SAMPLE.png">Tiki, Awakening From a Long Slumber+</name><set>B17</set></card>
+		<card><name id="B17-012ST_SAMPLE.png">Tiki, Awakening From a Long Slumber+</name><set>B17</set></card>
+		<card><name id="B17-029ST_SAMPLE.png">Cordelia, The Gifted Girl&apos;s Secret+</name><set>B17</set></card>
+		<card><name id="B17-029ST_SAMPLE.png">Cordelia, The Gifted Girl&apos;s Secret+</name><set>B17</set></card>
+		<card><name id="B17-029ST_SAMPLE.png">Cordelia, The Gifted Girl&apos;s Secret+</name><set>B17</set></card>
+		<card><name id="B17-036ST_SAMPLE.png">Takumi, Homeland-Protecting Bow Prince+</name><set>B17</set></card>
+		<card><name id="B17-036ST_SAMPLE.png">Takumi, Homeland-Protecting Bow Prince+</name><set>B17</set></card>
+		<card><name id="B17-036ST_SAMPLE.png">Takumi, Homeland-Protecting Bow Prince+</name><set>B17</set></card>
+		<card><name id="B17-050ST_SAMPLE.png">Camilla, Besotted Dragon Princess+</name><set>B17</set></card>
+		<card><name id="B17-050ST_SAMPLE.png">Camilla, Besotted Dragon Princess+</name><set>B17</set></card>
+		<card><name id="B17-050ST_SAMPLE.png">Camilla, Besotted Dragon Princess+</name><set>B17</set></card>
+		<card><name id="B17-064ST_SAMPLE.png">Mist, Commander Ike&apos;s Sister+</name><set>B17</set></card>
+		<card><name id="B17-064ST_SAMPLE.png">Mist, Commander Ike&apos;s Sister+</name><set>B17</set></card>
+		<card><name id="B17-064ST_SAMPLE.png">Mist, Commander Ike&apos;s Sister+</name><set>B17</set></card>
+		<card><name id="B17-087ST_SAMPLE.png">Eirika, Lunar Brace-Bearing Princess+</name><set>B17</set></card>
+		<card><name id="B17-087ST_SAMPLE.png">Eirika, Lunar Brace-Bearing Princess+</name><set>B17</set></card>
+		<card><name id="B17-089ST_SAMPLE.png">Seth, Silver General+</name><set>B17</set></card>
+		<card><name id="B17-090ST_SAMPLE.png">Seth, The Warrior King&apos;s Knight+</name><set>B17</set></card>
+		<card><name id="B17-090ST_SAMPLE.png">Seth, The Warrior King&apos;s Knight+</name><set>B17</set></card>
+		<card><name id="B17-093ST_SAMPLE.png">Lute, Superior Master of Magic Flames+</name><set>B17</set></card>
+		<card><name id="B17-093ST_SAMPLE.png">Lute, Superior Master of Magic Flames+</name><set>B17</set></card>
+		<card><name id="B17-099ST_SAMPLE.png">Arden, Immovable Armored Knight+</name><set>B17</set></card>
+		<card><name id="B17-099ST_SAMPLE.png">Arden, Immovable Armored Knight+</name><set>B17</set></card>
+		<card><name id="B17-099ST_SAMPLE.png">Arden, Immovable Armored Knight+</name><set>B17</set></card>
+		<card><name id="B17-104ST_SAMPLE.png">Ayra, Isaachian Princess of Swords+</name><set>B17</set></card>
+		<card><name id="B17-104ST_SAMPLE.png">Ayra, Isaachian Princess of Swords+</name><set>B17</set></card>
+		<card><name id="S11-002STplus_SAMPLE.png">Lucina, Defenderess of the Halidom+</name><set>S11</set></card>
+		<card><name id="S11-002ST_SAMPLE.png">Lucina, Defenderess of the Halidom</name><set>S11</set></card>
+		<card><name id="S11-002ST_SAMPLE.png">Lucina, Defenderess of the Halidom</name><set>S11</set></card>
+		<card><name id="S11-002ST_SAMPLE.png">Lucina, Defenderess of the Halidom</name><set>S11</set></card>
+	</superzone>
+	<superzone name="MC">
+		<card><name id="B17-021STplus_SAMPLE.png">Lucina, Brand-Bearing Princess+</name><set>B17</set></card>
+	</superzone>
+</deck>

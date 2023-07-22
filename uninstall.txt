@@ -1,0 +1,6 @@
+<uninstall>
+
+<dateYYMMDD>221128</dateYYMMDD>
+<removepath>sets/setimages/BZ01/BZ01-001+.jpg</removepath>
+
+</uninstall>

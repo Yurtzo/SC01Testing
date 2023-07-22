@@ -1,0 +1,58 @@
+Name	Set	Imagefile	Color	Rarity	Cost	Class	Type	Range	Attack	Support	Skill#1	Skill#2	Skill#3	Skill#4	
+Emma, Apprentice Gamer	USO	USO-001	White	HN	4(1)	Falcon Knight	Female/Lance/Flier/Beast	1	60	30	Reset |ACT| [Flip 1 Bond face-down] Both players return all cards to their Decks. Afterwards, restart the game from the point of choosing your Main Characters. 	"April Fools!" |SPEC| You can have a maximum of 0 copies of this card in your Deck.	-	-	
+Emma, Sprightly Player	USO	USO-002	White	HN	4(1)	Kinshi Knight	Female/Bow/Flier/Beast	2	50	30	Phoenix Mode |CONT| When this card is destroyed, add this card to your hand instead of sending it to the Retreat Area.	"Oh! That was a Kinshi, not a Phoenix!" |SPEC| This card may only be used if the date is 1st April 2017.	-	-	
+Shade, Retro Game Fan	USO	USO-003	Black	HN	4(1)	Sorcerer	Female/Tome	1-2	60	20	Classic Mode |CONT| When this unit is destroyed, remove it from the game. This card cannot be used again.	Backup Cartridge |SPEC| This card may only be used until the year 1995 or thereabouts.	-	-	
+Shade, Dreams of Being a Top Idol?	USO	USO-004	Colorless	HN	4(1)	Idol	Female/Tome	1-2	X	20	"Thank you, everybody!" |CONT| This unit's attack is calculated as the total number of non-"Shade" allies x 100.	Grand Stage of Dreams |SPEC| You may only use this card if you are at home sleeping.	-	-	
+Shade, Surpasser of the Super Rare?	USO	USO-005	Colorless	UR+	4(1)	Miracle Heroine	Female/Sword/Flier/Dragon	Infinite	100	30	Hyper-Super-Ultra-Rare Power! |ACT| [Flip 1 Bond face-down] Until the end of the turn, this unit gains x10000000000 attack.	Power of the Creator |SPEC| This card may only be used by the Producer of "Fire Emblem Cipher".	-	-	
+Niamh, Researcher Out of a Job	USO	USO_Niamh	Colorless	epic	4(1)	Chaos NEET	Female/Sword	1	70	10	"Strategy in Which Both Sides Are Given Into the Chaos, Thereby Switching the Positions of Enemy Combatants, Causing A Great Deal of Confusion But Ultimately Accomplishing Nothing" |ACT| [Once Per Turn] Switch which side of the field you and your opponent place cards. (You place cards in front of your opponent, and vice-versa).	"Data Analysis Complete: I Am Still In Need of Employment" |SPEC| You may only play this card if Fire Emblem Cipher is an actively supported trading card game.  [By a company, not by a bunch of NERDS]	-	-
+Pack Battles: Special Bond Card All-Out Advance	PBK	PBK-008	All	-	-	-	-	-	-	-	|SPEC| Play this card in your Bond Area, to start the game.	Bonds of Heroes |BOND| |ACT| [Remove this card from the game] Flip all of your Bond cards face-up.	-	This card is only usable in All-Out Advance Pack Battles. If this card is removed from the Bond Area, remove it from the game.	
+Pack Battles #2: Special Bond Card All-Out Advance	PBK	PBK-009	All	-	-	-	-	-	-	-	|SPEC| Play this card in your Bond Area, to start the game.	Bonds of Heroes |BOND| |ACT| [Remove this card from the game] Flip all of your Bond cards face-up.	-	This card is only usable in All-Out Advance Pack Battles. If this card is removed from the Bond Area, remove it from the game.	
+Pack Battles: Main Character Marker Card	PBM	PBM-008	Colorless	-	-	-	-	1	40	0	|CONT| You can stack 1 card from your hand, with any unit name of your choice, on top of this unit to Level Up it.	-	-	This card is only usable in Pack Battles. If this card is removed from the Battlefield, remove it from the game.	
+Pack Battles #2: Main Character Marker Card	PBM	PBM-009	Colorless	-	-	-	-	1	40	0	|CONT| You can stack 1 card from your hand, with any unit name of your choice, on top of this unit to Level Up it.	-	-	This card is only usable in Pack Battles. If this card is removed from the Battlefield, remove it from the game.	
+Pack Battles #3: Main Character Marker Card	PBM	PBM-010	Colorless	-	-	-	-	1	40	0	|CONT| You can stack 1 card from your hand, with any unit name of your choice, on top of this unit to Level Up it.	-	-	This card is only usable in Pack Battles. If this card is removed from the Battlefield, remove it from the game.	
+Dynamite Orb 1	Dynamite	DynamiteOrb1	-	-	-	-	-	-	-	-	Draw 6 cards.	-	-	-	
+Dynamite Orb 2	Dynamite	DynamiteOrb2	-	-	-	-	-	-	-	-	Read your Main Character's quote in their voice.	-	-	-	
+Dynamite Orb 3	Dynamite	DynamiteOrb3	-	-	-	-	-	-	-	-	Game Over	-	-	-	
+Dynamite Orb 4	Dynamite	DynamiteOrb4	-	-	-	-	-	-	-	-	Destroy all non-Main Character enemies.	-	-	-	
+Dynamite Orb 5	Dynamite	DynamiteOrb5	-	-	-	-	-	-	-	-	Draw 3 cards.	-	-	-	
+AlmToken	Token	AlmToken	Token				Token
+BlackToken	Token	BlackToken	Token				Token
+BlueToken	Token	BlueToken	Token				Token
+BrownToken	Token	BrownToken	Token				Token
+BSCToken	Token	BSCToken	Token				Token
+CelicaToken	Token	CelicaToken	Token				Token
+ChromToken	Token	ChromToken	Token				Token
+ColorlessToken	Token	ColorlessToken	Token				Token
+EliwoodToken	Token	EliwoodToken	Token				Token
+FemuiToken	Token	FemuiToken	Token				Token
+FemuiToken2	Token	FemuiToken2	Token				Token
+GarbageLord	Token	GarbageLord	Token				Token
+GreenToken	Token	GreenToken	Token				Token
+KatarinaToken	Token	KatarinaToken	Token				Token
+IkeToken	Token	IkeToken	Token				Token
+ItsukiToken	Token	ItsukiToken	Token				Token
+LynToken	Token	LynToken	Token				Token
+MamuiToken	Token	MamuiToken	Token				Token
+MarthToken	Token	MarthToken	Token				Token
+PBM-000	Token	PBM-000	Token				Token
+PBM-001	Token	PBM-001	Token				Token
+PBM-002	Token	PBM-002	Token				Token
+PBM-003	Token	PBM-003	Token				Token
+PBM-004	Token	PBM-004	Token				Token
+PBM-005	Token	PBM-005	Token				Token
+PBM-006	Token	PBM-006	Token				Token
+PBM-007	Token	PBM-007	Token				Token
+PBM-008	Token	PBM-008	Token				Token
+PurpleToken1	Token	PurpleToken	Token				Token
+PurpleToken2	Token	PurpleToken2	Token				Token
+RedToken	Token	RedToken	Token				Token
+RedToken2	Token	RedToken2	Token				Token
+RoyToken	Token	RoyToken	Token				Token
+RoyToken2	Token	RoyToken2	Token				Token
+SeliphToken	Token	SeliphToken	Token				Token
+ShezToken	Token	ShezToken1,ShezToken2	Token				Token
+SigurdToken	Token	SigurdToken	Token				Token
+TikiToken	Token	TikiToken	Token				Token
+TMSToken	Token	TMSToken	Token				Token
+WhiteToken	Token	WhiteToken	Token				Token
+YellowToken	Token	YellowToken	Token				Token

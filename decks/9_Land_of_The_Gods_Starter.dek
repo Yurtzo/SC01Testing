@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>FECipher0</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="S09-001ST_SAMPLE.png">Alm, Mightiest Warrior</name><set>S09</set></card>
+		<card><name id="S09-001ST_SAMPLE.png">Alm, Mightiest Warrior</name><set>S09</set></card>
+		<card><name id="S09-001ST_SAMPLE.png">Alm, Mightiest Warrior</name><set>S09</set></card>
+		<card><name id="S09-001STplus_SAMPLE.png">Alm, Mightiest Warrior+</name><set>S09</set></card>
+		<card><name id="S09-004ST_SAMPLE.png">Boey, Young Mage of Novis</name><set>S09</set></card>
+		<card><name id="S09-004ST_SAMPLE.png">Boey, Young Mage of Novis</name><set>S09</set></card>
+		<card><name id="S09-002STplus_SAMPLE.png">Celica, Princess of Zofia+</name><set>S09</set></card>
+		<card><name id="S09-003ST_SAMPLE.png">Mycen, Hero of Zofia</name><set>S09</set></card>
+		<card><name id="S09-003ST_SAMPLE.png">Mycen, Hero of Zofia</name><set>S09</set></card>
+		<card><name id="B09-006HN_SAMPLE.png">Celica, Zofian Warrior Priestess</name><set>B09</set></card>
+		<card><name id="B09-006STplus_SAMPLE.png">Celica, Zofian Warrior Priestess+</name><set>B09</set></card>
+		<card><name id="B09-014N_SAMPLE.png">Kliff, Surly Passion</name><set>B09</set></card>
+		<card><name id="B09-014N_SAMPLE.png">Kliff, Surly Passion</name><set>B09</set></card>
+		<card><name id="B09-013STplus_SAMPLE.png">Kliff, Hidden Magic Smile+</name><set>B09</set></card>
+		<card><name id="B09-012N_SAMPLE.png">Tobin, Socially Oblivious Childhood Friend</name><set>B09</set></card>
+		<card><name id="B09-012N_SAMPLE.png">Tobin, Socially Oblivious Childhood Friend</name><set>B09</set></card>
+		<card><name id="B09-010R_SAMPLE.png">Tobin, Bow Knight of Close Friendship</name><set>B09</set></card>
+		<card><name id="B09-016N_SAMPLE.png">Faye, Maiden of Ram Village</name><set>B09</set></card>
+		<card><name id="B09-016N_SAMPLE.png">Faye, Maiden of Ram Village</name><set>B09</set></card>
+		<card><name id="B09-018N_SAMPLE.png">Lukas, Messenger from the Deliverance</name><set>B09</set></card>
+		<card><name id="B09-018N_SAMPLE.png">Lukas, Messenger from the Deliverance</name><set>B09</set></card>
+		<card><name id="B09-022N_SAMPLE.png">Clair, Lady of War</name><set>B09</set></card>
+		<card><name id="B09-022N_SAMPLE.png">Clair, Lady of War</name><set>B09</set></card>
+		<card><name id="B09-022N_SAMPLE.png">Clair, Lady of War</name><set>B09</set></card>
+		<card><name id="B09-024N_SAMPLE.png">Clive, Leader of the Deliverance</name><set>B09</set></card>
+		<card><name id="B09-024N_SAMPLE.png">Clive, Leader of the Deliverance</name><set>B09</set></card>
+		<card><name id="B09-026N_SAMPLE.png">Mae, Energetic Mage Girl</name><set>B09</set></card>
+		<card><name id="B09-026N_SAMPLE.png">Mae, Energetic Mage Girl</name><set>B09</set></card>
+		<card><name id="B09-026N_SAMPLE.png">Mae, Energetic Mage Girl</name><set>B09</set></card>
+		<card><name id="B09-027STplus_SAMPLE.png">Genny, Endearing Saint+</name><set>B09</set></card>
+		<card><name id="B09-028N_SAMPLE.png">Genny, Young Cleric of Novis</name><set>B09</set></card>
+		<card><name id="B09-028N_SAMPLE.png">Genny, Young Cleric of Novis</name><set>B09</set></card>
+		<card><name id="B09-028N_SAMPLE.png">Genny, Young Cleric of Novis</name><set>B09</set></card>
+		<card><name id="B09-029R_SAMPLE.png">Saber, Peerless Guardsman</name><set>B09</set></card>
+		<card><name id="B09-030N_SAMPLE.png">Saber, Gold-Seeking Mercenary</name><set>B09</set></card>
+		<card><name id="B09-030N_SAMPLE.png">Saber, Gold-Seeking Mercenary</name><set>B09</set></card>
+		<card><name id="B09-030N_SAMPLE.png">Saber, Gold-Seeking Mercenary</name><set>B09</set></card>
+		<card><name id="S09-002ST_SAMPLE.png">Celica, Princess of Zofia</name><set>S09</set></card>
+		<card><name id="S09-002ST_SAMPLE.png">Celica, Princess of Zofia</name><set>S09</set></card>
+		<card><name id="S09-002ST_SAMPLE.png">Celica, Princess of Zofia</name><set>S09</set></card>
+		<card><name id="S09-005ST_SAMPLE.png">Valbar, Vengeful Armored Knight</name><set>S09</set></card>
+		<card><name id="S09-005ST_SAMPLE.png">Valbar, Vengeful Armored Knight</name><set>S09</set></card>
+		<card><name id="S09-005ST_SAMPLE.png">Valbar, Vengeful Armored Knight</name><set>S09</set></card>
+		<card><name id="B09-003HN_SAMPLE.png">Alm, Youth of Ram Village</name><set>B09</set></card>
+		<card><name id="B09-015R_SAMPLE.png">Faye, Devoted Heart</name><set>B09</set></card>
+		<card><name id="B09-009N_SAMPLE.png">Gray (Valentia), Reliable Childhood Friend</name><set>B09</set></card>
+		<card><name id="B09-009N_SAMPLE.png">Gray (Valentia), Reliable Childhood Friend</name><set>B09</set></card>
+		<card><name id="B09-008N_SAMPLE.png">Gray (Valentia), Quick-Witted Looker</name><set>B09</set></card>
+		<card><name id="B09-008N_SAMPLE.png">Gray (Valentia), Quick-Witted Looker</name><set>B09</set></card>
+	</superzone>
+	<superzone name="MC">
+		<card><name id="B09-003STplus_SAMPLE.png">Alm, Youth of Ram Village+</name><set>B09</set></card>
+	</superzone>
+</deck>

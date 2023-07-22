@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>FECipher0</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="B02-011N_SAMPLE.png">Takumi, Young Prince of Hoshido</name><set>B02</set></card>
+		<card><name id="B02-011N_SAMPLE.png">Takumi, Young Prince of Hoshido</name><set>B02</set></card>
+		<card><name id="B02-011N_SAMPLE.png">Takumi, Young Prince of Hoshido</name><set>B02</set></card>
+		<card><name id="B02-013N_SAMPLE.png">Sakura, Young Princess of Hoshido</name><set>B02</set></card>
+		<card><name id="B02-013N_SAMPLE.png">Sakura, Young Princess of Hoshido</name><set>B02</set></card>
+		<card><name id="B02-013N_SAMPLE.png">Sakura, Young Princess of Hoshido</name><set>B02</set></card>
+		<card><name id="B02-003HN_SAMPLE.png">Corrin (Male), Prince of Hoshido</name><set>B02</set></card>
+		<card><name id="S03-001STplus_SAMPLE.png">Corrin (Male), Fateful Prince+</name><set>S03</set></card>
+		<card><name id="S03-001ST_SAMPLE.png">Corrin (Male), Fateful Prince</name><set>S03</set></card>
+		<card><name id="S03-001ST_SAMPLE.png">Corrin (Male), Fateful Prince</name><set>S03</set></card>
+		<card><name id="S03-001ST_SAMPLE.png">Corrin (Male), Fateful Prince</name><set>S03</set></card>
+		<card><name id="B02-005HN_SAMPLE.png">Azura, Lady of the Lake</name><set>B02</set></card>
+		<card><name id="B02-005HN_SAMPLE.png">Azura, Lady of the Lake</name><set>B02</set></card>
+		<card><name id="S03-005ST_SAMPLE.png">Sakura, Loving Priestess</name><set>S03</set></card>
+		<card><name id="S03-005STplus_SAMPLE.png">Sakura, Loving Priestess+</name><set>S03</set></card>
+		<card><name id="S03-004STplus_SAMPLE.png">Takumi, Wild Card+</name><set>S03</set></card>
+		<card><name id="S03-004ST_SAMPLE.png">Takumi, Wild Card</name><set>S03</set></card>
+		<card><name id="S03-003STplus_SAMPLE.png">Hinoka, Warrior Princess+</name><set>S03</set></card>
+		<card><name id="S03-003ST_SAMPLE.png">Hinoka, Warrior Princess</name><set>S03</set></card>
+		<card><name id="B02-019N_SAMPLE.png">Setsuna, Absent Archer</name><set>B02</set></card>
+		<card><name id="B02-019N_SAMPLE.png">Setsuna, Absent Archer</name><set>B02</set></card>
+		<card><name id="B02-019N_SAMPLE.png">Setsuna, Absent Archer</name><set>B02</set></card>
+		<card><name id="B02-023N_SAMPLE.png">Hinata, Wild Samurai</name><set>B02</set></card>
+		<card><name id="B02-023N_SAMPLE.png">Hinata, Wild Samurai</name><set>B02</set></card>
+		<card><name id="B02-023N_SAMPLE.png">Hinata, Wild Samurai</name><set>B02</set></card>
+		<card><name id="B02-027N_SAMPLE.png">Hana, Focused Samurai</name><set>B02</set></card>
+		<card><name id="B02-027N_SAMPLE.png">Hana, Focused Samurai</name><set>B02</set></card>
+		<card><name id="B02-027N_SAMPLE.png">Hana, Focused Samurai</name><set>B02</set></card>
+		<card><name id="B02-038N_SAMPLE.png">Hayato, The Kid</name><set>B02</set></card>
+		<card><name id="B02-038N_SAMPLE.png">Hayato, The Kid</name><set>B02</set></card>
+		<card><name id="B02-014R_SAMPLE.png">Saizo, Angry Ninja</name><set>B02</set></card>
+		<card><name id="B02-018HN_SAMPLE.png">Setsuna, Easygoing Sniper</name><set>B02</set></card>
+		<card><name id="B02-015N_SAMPLE.png">Saizo, Hoshidan Shadowsneaker</name><set>B02</set></card>
+		<card><name id="B02-015N_SAMPLE.png">Saizo, Hoshidan Shadowsneaker</name><set>B02</set></card>
+		<card><name id="B02-015N_SAMPLE.png">Saizo, Hoshidan Shadowsneaker</name><set>B02</set></card>
+		<card><name id="B02-009N_SAMPLE.png">Hinoka, Eldest Princess of Hoshido</name><set>B02</set></card>
+		<card><name id="B02-009N_SAMPLE.png">Hinoka, Eldest Princess of Hoshido</name><set>B02</set></card>
+		<card><name id="B02-009N_SAMPLE.png">Hinoka, Eldest Princess of Hoshido</name><set>B02</set></card>
+		<card><name id="B02-022HN_SAMPLE.png">Hinata, Hoshidan Adventurer</name><set>B02</set></card>
+		<card><name id="B02-026R_SAMPLE.png">Hana, Cherryblossom Guardian</name><set>B02</set></card>
+		<card><name id="B02-004R_SAMPLE.png">Azura, White Songstress</name><set>B02</set></card>
+		<card><name id="B02-036N_SAMPLE.png">Rinkah, Scion of Flame</name><set>B02</set></card>
+		<card><name id="B02-036N_SAMPLE.png">Rinkah, Scion of Flame</name><set>B02</set></card>
+		<card><name id="B02-007N_SAMPLE.png">Ryoma, Eldest Prince of Hoshido</name><set>B02</set></card>
+		<card><name id="B02-007N_SAMPLE.png">Ryoma, Eldest Prince of Hoshido</name><set>B02</set></card>
+		<card><name id="S03-002ST_SAMPLE.png">Ryoma, Heir to Hoshido</name><set>S03</set></card>
+		<card><name id="S03-002ST_SAMPLE.png">Ryoma, Heir to Hoshido</name><set>S03</set></card>
+		<card><name id="S03-002STplus_SAMPLE.png">Ryoma, Heir to Hoshido+</name><set>S03</set></card>
+		<card><name id="B02-031STplus_SAMPLE.png">Felicia, Junior Maid Mayhem+</name><set>B02</set></card>
+	</superzone>
+	<superzone name="MC">
+		<card><name id="B02-003HN_SAMPLE.png">Corrin (Male), Prince of Hoshido</name><set>B02</set></card>
+	</superzone>
+</deck>

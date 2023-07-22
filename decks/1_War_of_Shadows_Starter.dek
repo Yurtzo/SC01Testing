@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>FECipher0</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="B01-008N_SAMPLE.png">Cain, Red Knight</name><set>B01</set></card>
+		<card><name id="B01-008N_SAMPLE.png">Cain, Red Knight</name><set>B01</set></card>
+		<card><name id="B01-008N_SAMPLE.png">Cain, Red Knight</name><set>B01</set></card>
+		<card><name id="B01-010N_SAMPLE.png">Abel, Green Knight</name><set>B01</set></card>
+		<card><name id="B01-010N_SAMPLE.png">Abel, Green Knight</name><set>B01</set></card>
+		<card><name id="B01-010N_SAMPLE.png">Abel, Green Knight</name><set>B01</set></card>
+		<card><name id="S01-001STplus_SAMPLE.png">Marth, Star and Savior+</name><set>S01</set></card>
+		<card><name id="S01-001ST_SAMPLE.png">Marth, Star and Savior</name><set>S01</set></card>
+		<card><name id="S01-001ST_SAMPLE.png">Marth, Star and Savior</name><set>S01</set></card>
+		<card><name id="S01-001ST_SAMPLE.png">Marth, Star and Savior</name><set>S01</set></card>
+		<card><name id="S01-002STplus_SAMPLE.png">Caeda, Battlefield-Soaring Princess+</name><set>S01</set></card>
+		<card><name id="S01-002ST_SAMPLE.png">Caeda, Battlefield-Soaring Princess</name><set>S01</set></card>
+		<card><name id="S01-004STplus_SAMPLE.png">Ogma, Wielder of a Heavy Blade+</name><set>S01</set></card>
+		<card><name id="S01-004ST_SAMPLE.png">Ogma, Wielder of a Heavy Blade</name><set>S01</set></card>
+		<card><name id="S01-004ST_SAMPLE.png">Ogma, Wielder of a Heavy Blade</name><set>S01</set></card>
+		<card><name id="S01-005STplus_SAMPLE.png">Navarre, Wielder of a Killing Edge+</name><set>S01</set></card>
+		<card><name id="S01-005ST_SAMPLE.png">Navarre, Wielder of a Killing Edge</name><set>S01</set></card>
+		<card><name id="S01-005ST_SAMPLE.png">Navarre, Wielder of a Killing Edge</name><set>S01</set></card>
+		<card><name id="B01-036STplus_SAMPLE.png">Linde, Miloah&apos;s Child+</name><set>B01</set></card>
+		<card><name id="B01-003HN_SAMPLE.png">Marth, Altean Prince</name><set>B01</set></card>
+		<card><name id="B01-006HN_SAMPLE.png">Caeda, Talys&apos;s Heart</name><set>B01</set></card>
+		<card><name id="B01-006HN_SAMPLE.png">Caeda, Talys&apos;s Heart</name><set>B01</set></card>
+		<card><name id="B01-007R_SAMPLE.png">Cain, Knight Hailed as the Bull</name><set>B01</set></card>
+		<card><name id="B01-009R_SAMPLE.png">Abel, Knight Hailed as the Panther</name><set>B01</set></card>
+		<card><name id="B01-012N_SAMPLE.png">Draug, Guardian Knight</name><set>B01</set></card>
+		<card><name id="B01-012N_SAMPLE.png">Draug, Guardian Knight</name><set>B01</set></card>
+		<card><name id="B01-018HN_SAMPLE.png">Ogma, Loyal Blade</name><set>B01</set></card>
+		<card><name id="B01-018HN_SAMPLE.png">Ogma, Loyal Blade</name><set>B01</set></card>
+		<card><name id="B01-021HN_SAMPLE.png">Barst, The Hatchet</name><set>B01</set></card>
+		<card><name id="B01-021HN_SAMPLE.png">Barst, The Hatchet</name><set>B01</set></card>
+		<card><name id="B01-019N_SAMPLE.png">Bord, Talysian Warrior</name><set>B01</set></card>
+		<card><name id="B01-019N_SAMPLE.png">Bord, Talysian Warrior</name><set>B01</set></card>
+		<card><name id="B01-020N_SAMPLE.png">Cord, Talysian Axeman</name><set>B01</set></card>
+		<card><name id="B01-020N_SAMPLE.png">Cord, Talysian Axeman</name><set>B01</set></card>
+		<card><name id="B01-024HN_SAMPLE.png">Navarre, Scarlet Sword</name><set>B01</set></card>
+		<card><name id="B01-024HN_SAMPLE.png">Navarre, Scarlet Sword</name><set>B01</set></card>
+		<card><name id="B01-026N_SAMPLE.png">Lena, Angel to All</name><set>B01</set></card>
+		<card><name id="B01-026N_SAMPLE.png">Lena, Angel to All</name><set>B01</set></card>
+		<card><name id="B01-026N_SAMPLE.png">Lena, Angel to All</name><set>B01</set></card>
+		<card><name id="B01-028R_SAMPLE.png">Merric, Gale Sage</name><set>B01</set></card>
+		<card><name id="B01-029N_SAMPLE.png">Merric, Wind Mage</name><set>B01</set></card>
+		<card><name id="B01-029N_SAMPLE.png">Merric, Wind Mage</name><set>B01</set></card>
+		<card><name id="B01-029N_SAMPLE.png">Merric, Wind Mage</name><set>B01</set></card>
+		<card><name id="B01-036N_SAMPLE.png">Linde, Miloah&apos;s Child</name><set>B01</set></card>
+		<card><name id="B01-013HN_SAMPLE.png">Gordin, Bow Knight of the League</name><set>B01</set></card>
+		<card><name id="B01-014N_SAMPLE.png">Gordin, Archer of the Liberators</name><set>B01</set></card>
+		<card><name id="B01-014N_SAMPLE.png">Gordin, Archer of the Liberators</name><set>B01</set></card>
+		<card><name id="S01-003ST_SAMPLE.png">Jagen, Faithful Verteran</name><set>S01</set></card>
+		<card><name id="S01-003ST_SAMPLE.png">Jagen, Faithful Verteran</name><set>S01</set></card>
+	</superzone>
+	<superzone name="MC">
+		<card><name id="B01-003STplus_SAMPLE.png">Marth, Altean Prince+</name><set>B01</set></card>
+	</superzone>
+</deck>

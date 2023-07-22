@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>FECipher0</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="B01-059R_SAMPLE.png">Lissa, Princess of Ylisse</name><set>B01</set></card>
+		<card><name id="B01-060N_SAMPLE.png">Lissa, Sprightly Cleric</name><set>B01</set></card>
+		<card><name id="B01-060N_SAMPLE.png">Lissa, Sprightly Cleric</name><set>B01</set></card>
+		<card><name id="B01-060N_SAMPLE.png">Lissa, Sprightly Cleric</name><set>B01</set></card>
+		<card><name id="B01-062HN_SAMPLE.png">Virion, Duke of Rosanne</name><set>B01</set></card>
+		<card><name id="S02-001ST_SAMPLE.png">Chrom, Defender of the Halidom</name><set>S02</set></card>
+		<card><name id="S02-001ST_SAMPLE.png">Chrom, Defender of the Halidom</name><set>S02</set></card>
+		<card><name id="S02-001ST_SAMPLE.png">Chrom, Defender of the Halidom</name><set>S02</set></card>
+		<card><name id="S02-001STplus_SAMPLE.png">Chrom, Defender of the Halidom+</name><set>S02</set></card>
+		<card><name id="B01-053HN_SAMPLE.png">Chrom, Prince of Ylisse</name><set>B01</set></card>
+		<card><name id="S02-002ST_SAMPLE.png">Kellam, Often Forgotten</name><set>S02</set></card>
+		<card><name id="S02-002ST_SAMPLE.png">Kellam, Often Forgotten</name><set>S02</set></card>
+		<card><name id="S02-002ST_SAMPLE.png">Kellam, Often Forgotten</name><set>S02</set></card>
+		<card><name id="B01-076N_SAMPLE.png">Cordelia, Knight Paragon</name><set>B01</set></card>
+		<card><name id="B01-076N_SAMPLE.png">Cordelia, Knight Paragon</name><set>B01</set></card>
+		<card><name id="B01-061STplus_SAMPLE.png">Frederick, Cold Lieutenant+</name><set>B01</set></card>
+		<card><name id="B01-061N_SAMPLE.png">Frederick, Cold Lieutenant</name><set>B01</set></card>
+		<card><name id="B01-055N_SAMPLE.png">Lucina, Heiress to the Exalt&apos;s Blood</name><set>B01</set></card>
+		<card><name id="B01-055N_SAMPLE.png">Lucina, Heiress to the Exalt&apos;s Blood</name><set>B01</set></card>
+		<card><name id="B01-057R_SAMPLE.png">Robin (Female), High Deliverer</name><set>B01</set></card>
+		<card><name id="B01-058N_SAMPLE.png">Robin (Female), Amnesiac Tactician</name><set>B01</set></card>
+		<card><name id="B01-058N_SAMPLE.png">Robin (Female), Amnesiac Tactician</name><set>B01</set></card>
+		<card><name id="B01-063N_SAMPLE.png">Virion, Archest Archer</name><set>B01</set></card>
+		<card><name id="B01-063N_SAMPLE.png">Virion, Archest Archer</name><set>B01</set></card>
+		<card><name id="B01-064STplus_SAMPLE.png">Sully, Crimson-Eyed Bull+</name><set>B01</set></card>
+		<card><name id="B01-064HN_SAMPLE.png">Sully, Crimson-Eyed Bull</name><set>B01</set></card>
+		<card><name id="B01-064HN_SAMPLE.png">Sully, Crimson-Eyed Bull</name><set>B01</set></card>
+		<card><name id="B01-065N_SAMPLE.png">Sully, Gallant Crimson Knight</name><set>B01</set></card>
+		<card><name id="B01-065N_SAMPLE.png">Sully, Gallant Crimson Knight</name><set>B01</set></card>
+		<card><name id="B01-066STplus_SAMPLE.png">Stahl, Viridian-Eyed Panther+</name><set>B01</set></card>
+		<card><name id="B01-066HN_SAMPLE.png">Stahl, Viridian-Eyed Panther</name><set>B01</set></card>
+		<card><name id="B01-066HN_SAMPLE.png">Stahl, Viridian-Eyed Panther</name><set>B01</set></card>
+		<card><name id="B01-067N_SAMPLE.png">Stahl, Pleasant Viridian Knight</name><set>B01</set></card>
+		<card><name id="B01-067N_SAMPLE.png">Stahl, Pleasant Viridian Knight</name><set>B01</set></card>
+		<card><name id="B01-071N_SAMPLE.png">Lon&apos;qu, Gynophobe</name><set>B01</set></card>
+		<card><name id="B01-071N_SAMPLE.png">Lon&apos;qu, Gynophobe</name><set>B01</set></card>
+		<card><name id="B01-071N_SAMPLE.png">Lon&apos;qu, Gynophobe</name><set>B01</set></card>
+		<card><name id="B01-070R_SAMPLE.png">Lon&apos;qu, Solitary Blade</name><set>B01</set></card>
+		<card><name id="B01-072N_SAMPLE.png">Maribelle, Dire Damsel</name><set>B01</set></card>
+		<card><name id="B01-072N_SAMPLE.png">Maribelle, Dire Damsel</name><set>B01</set></card>
+		<card><name id="S02-003ST_SAMPLE.png">Vaike, Zero to Hero</name><set>S02</set></card>
+		<card><name id="S02-003ST_SAMPLE.png">Vaike, Zero to Hero</name><set>S02</set></card>
+		<card><name id="S02-003ST_SAMPLE.png">Vaike, Zero to Hero</name><set>S02</set></card>
+		<card><name id="S02-005ST_SAMPLE.png">Ricken, Upcoming Mage</name><set>S02</set></card>
+		<card><name id="S02-005ST_SAMPLE.png">Ricken, Upcoming Mage</name><set>S02</set></card>
+		<card><name id="S02-004STplus_SAMPLE.png">Miriel, Rapier Intellect+</name><set>S02</set></card>
+		<card><name id="S02-004ST_SAMPLE.png">Miriel, Rapier Intellect</name><set>S02</set></card>
+		<card><name id="B01-069N_SAMPLE.png">Sumia, Maid of Flowers</name><set>B01</set></card>
+		<card><name id="B01-069N_SAMPLE.png">Sumia, Maid of Flowers</name><set>B01</set></card>
+	</superzone>
+	<superzone name="MC">
+		<card><name id="B01-053STplus_SAMPLE.png">Chrom, Prince of Ylisse+</name><set>B01</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>FECipher0</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="S07-002ST_SAMPLE.png">Lilina, Brave Princess</name><set>S07</set></card>
+		<card><name id="S07-002ST_SAMPLE.png">Lilina, Brave Princess</name><set>S07</set></card>
+		<card><name id="S07-002STplus_SAMPLE.png">Lilina, Brave Princess+</name><set>S07</set></card>
+		<card><name id="S07-001ST_SAMPLE.png">Roy, Young Lion</name><set>S07</set></card>
+		<card><name id="S07-001ST_SAMPLE.png">Roy, Young Lion</name><set>S07</set></card>
+		<card><name id="S07-001ST_SAMPLE.png">Roy, Young Lion</name><set>S07</set></card>
+		<card><name id="S07-001STplus_SAMPLE.png">Roy, Young Lion+</name><set>S07</set></card>
+		<card><name id="B05-003HN_SAMPLE.png">Roy, Young Lord of Pherae</name><set>B05</set></card>
+		<card><name id="B05-003HN_SAMPLE.png">Roy, Young Lord of Pherae</name><set>B05</set></card>
+		<card><name id="B05-006HN_SAMPLE.png">Lilina, Lady of Ostia</name><set>B05</set></card>
+		<card><name id="B05-006HN_SAMPLE.png">Lilina, Lady of Ostia</name><set>B05</set></card>
+		<card><name id="B05-007R_SAMPLE.png">Alen, Loyal Knight of Flames</name><set>B05</set></card>
+		<card><name id="B05-008N_SAMPLE.png">Alen, Fierce Knight</name><set>B05</set></card>
+		<card><name id="B05-008N_SAMPLE.png">Alen, Fierce Knight</name><set>B05</set></card>
+		<card><name id="B05-008N_SAMPLE.png">Alen, Fierce Knight</name><set>B05</set></card>
+		<card><name id="B05-010N_SAMPLE.png">Lance, Calm Knight</name><set>B05</set></card>
+		<card><name id="B05-010N_SAMPLE.png">Lance, Calm Knight</name><set>B05</set></card>
+		<card><name id="B05-010N_SAMPLE.png">Lance, Calm Knight</name><set>B05</set></card>
+		<card><name id="B05-009R_SAMPLE.png">Lance, Loyal Knight of Gales</name><set>B05</set></card>
+		<card><name id="B05-011HN_SAMPLE.png">Wolt, Arrow of Bonds</name><set>B05</set></card>
+		<card><name id="B05-012N_SAMPLE.png">Wolt, Archer of Pherae</name><set>B05</set></card>
+		<card><name id="B05-012N_SAMPLE.png">Wolt, Archer of Pherae</name><set>B05</set></card>
+		<card><name id="B05-016N_SAMPLE.png">Elen, Cleric Serving the Princess</name><set>B05</set></card>
+		<card><name id="B05-016N_SAMPLE.png">Elen, Cleric Serving the Princess</name><set>B05</set></card>
+		<card><name id="B05-016N_SAMPLE.png">Elen, Cleric Serving the Princess</name><set>B05</set></card>
+		<card><name id="B05-020N_SAMPLE.png">Wade, Reckless Mercenary</name><set>B05</set></card>
+		<card><name id="B05-020N_SAMPLE.png">Wade, Reckless Mercenary</name><set>B05</set></card>
+		<card><name id="B05-031HN_SAMPLE.png">Rutger, Swordsman of Vengeance</name><set>B05</set></card>
+		<card><name id="B05-031HN_SAMPLE.png">Rutger, Swordsman of Vengeance</name><set>B05</set></card>
+		<card><name id="B05-033STplus_SAMPLE.png">Sue, Girl of the Kutolah Tribe+</name><set>B05</set></card>
+		<card><name id="B05-033N_SAMPLE.png">Sue, Girl of the Kutolah Tribe</name><set>B05</set></card>
+		<card><name id="B05-026N_SAMPLE.png">Lugh, Determined Mage</name><set>B05</set></card>
+		<card><name id="B05-026N_SAMPLE.png">Lugh, Determined Mage</name><set>B05</set></card>
+		<card><name id="B05-023N_SAMPLE.png">Shanna, Half-Baked Pegasus Knight</name><set>B05</set></card>
+		<card><name id="B05-023N_SAMPLE.png">Shanna, Half-Baked Pegasus Knight</name><set>B05</set></card>
+		<card><name id="B05-023N_SAMPLE.png">Shanna, Half-Baked Pegasus Knight</name><set>B05</set></card>
+		<card><name id="B05-021N_SAMPLE.png">Lot, Careful Warrior</name><set>B05</set></card>
+		<card><name id="B05-021N_SAMPLE.png">Lot, Careful Warrior</name><set>B05</set></card>
+		<card><name id="S07-003ST_SAMPLE.png">Marcus, Loyal Paladin</name><set>S07</set></card>
+		<card><name id="S07-003STplus_SAMPLE.png">Marcus, Loyal Paladin+</name><set>S07</set></card>
+		<card><name id="S07-005ST_SAMPLE.png">Rutger, Vengeful Scarlet Demon</name><set>S07</set></card>
+		<card><name id="S07-005STplus_SAMPLE.png">Rutger, Vengeful Scarlet Demon+</name><set>S07</set></card>
+		<card><name id="S07-004ST_SAMPLE.png">Shanna, Sprightly Flier</name><set>S07</set></card>
+		<card><name id="S07-004STplus_SAMPLE.png">Shanna, Sprightly Flier+</name><set>S07</set></card>
+		<card><name id="B05-014N_SAMPLE.png">Bors, Impregnable Knight</name><set>B05</set></card>
+		<card><name id="B05-014N_SAMPLE.png">Bors, Impregnable Knight</name><set>B05</set></card>
+		<card><name id="B05-017R_SAMPLE.png">Dieck, Battle-Scarred Veteran</name><set>B05</set></card>
+		<card><name id="B05-019HN_SAMPLE.png">Dieck, Captain of the Dieck Mercenaries</name><set>B05</set></card>
+		<card><name id="B05-019HN_SAMPLE.png">Dieck, Captain of the Dieck Mercenaries</name><set>B05</set></card>
+	</superzone>
+	<superzone name="MC">
+		<card><name id="B05-003HN_SAMPLE.png">Roy, Young Lord of Pherae</name><set>B05</set></card>
+	</superzone>
+</deck>
