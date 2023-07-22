@@ -1,0 +1,2 @@
+CardImageURLs:	
+SC01/SC01-007 https://dl.dropboxusercontent.com/s/7pjyv5awkt4dsz0/USO-001.png
