@@ -26,6 +26,6 @@ SC01/SC01-043.jpg	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/sets
 SC01/SC01-044.jpg	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/sets/setimages/SC01/SC01-044.jpg
 SC01/SC01-045.jpg	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/sets/setimages/SC01/SC01-045.jpg
 SC01/SC01-056.jpg	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/sets/setimages/SC01/SC01-056.jpg
-SC01/SC01-057.jpg	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/sets/setimages/SC01/SC01-057.jpg
+SC01/SC01-057.jpg	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/sets/setimages/SC01/SC01-057.png
 SC01/SC01-058.jpg	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/sets/setimages/SC01/SC01-058.jpg
 SC01/SC01-059.jpg	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/sets/setimages/SC01/SC01-059.jpg
