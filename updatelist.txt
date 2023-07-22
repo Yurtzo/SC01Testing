@@ -11,7 +11,7 @@ plugins/SC01/sets/cardback.jpg	https://dl.dropboxusercontent.com/s/0x3rzwap53ohy
 plugins/SC01/sets/custom-cards.txt	https://dl.dropboxusercontent.com/s/y4npw5wz7u3t413/custom-cards.txt	19233286
 plugins/SC01/sets/official-cards.txt	https://dl.dropboxusercontent.com/s/xjcvz08rfi30soy/official-cards.txt	99207996
 plugins/SC01/sets/specials-tokens.txt	https://dl.dropboxusercontent.com/s/8i0xsjotwypddqb/specials-tokens.txt	504983
-plugins/SC01/sets/custom-cards_SC01.txt	https://dl.dropboxusercontent.com/s/6v68r72ippfxh34/custom-cardsCS.txt	4825013
+plugins/SC01/sets/custom-cards_SC01.txt	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/sets/custom-cards_SC01.txt	4825013
 images/backgrounds/defaultbackground.jpg	https://dl.dropboxusercontent.com/s/g1vfzlulouzblg6/defaultbackground.jpg	-1136987
 images/backgrounds/8PlayerArenaMat.png	https://dl.dropboxusercontent.com/s/2a9jn0vwzku3w3o/8PlayerArenaMat.png	-919386
 images/zonebackgrounds/DeckArea.png	https://dl.dropboxusercontent.com/s/1a4rjwwdz1ptqwj/DeckArea.png	-30452
