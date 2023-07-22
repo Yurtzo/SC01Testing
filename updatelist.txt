@@ -6,6 +6,7 @@ plugins/SC01/uninstall.txt	https://dl.dropboxusercontent.com/s/78blqth7om4hd4q/u
 plugins/SC01/CardImageURLs1.txt	https://dl.dropboxusercontent.com/s/twsprwmt3o5hmuu/CardImageURLs1.txt	493194
 plugins/SC01/CardImageURLs2.txt	https://dl.dropboxusercontent.com/s/rq7ho6wfzjtoszo/CardImageURLs2.txt	3236797
 plugins/SC01/CardImageURLs3.txt	https://dl.dropboxusercontent.com/s/z3fet7lcojsrwmf/CardImageURLs3.txt	30820596
+plugins/SC01/CardImageURLs4.txt	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/CardImageURLs4.txt	30820594
 plugins/SC01/defaultchat.txt	https://dl.dropboxusercontent.com/s/vfwbqce44o7npkc/defaultchat.txt	14975
 plugins/SC01/sets/cardback.jpg	https://dl.dropboxusercontent.com/s/0x3rzwap53ohys5/cardback.jpg	-149634
 plugins/SC01/sets/custom-cards.txt	https://dl.dropboxusercontent.com/s/y4npw5wz7u3t413/custom-cards.txt	19233286
@@ -58,6 +59,7 @@ CardURLFiles:
 CardImageURLs1.txt
 CardImageURLs2.txt
 CardImageURLs3.txt
+CardImageURLs4.txt
 
 CardGeneralURLs:
 https://fecipher.jp/wp-content/uploads/cards/images/
