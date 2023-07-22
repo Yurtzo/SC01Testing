@@ -1,9 +1,9 @@
 <version>
 
-<lastupdateYYMMDD>230208</lastupdateYYMMDD>
+<lastupdateYYMMDD>230722</lastupdateYYMMDD>
 <quality>HIGH</quality>
-<versionurl>https://dl.dropboxusercontent.com/s/962dgtkb4vcilks/version.txt</versionurl>
-<updateurl>https://dl.dropboxusercontent.com/s/8lmoxpytioi4drk/updatelist.txt</updateurl>
-<message>BZ01 and CC02 added.</message>
+<versionurl>https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/updatelist.txt</updateurl>
+<message>Creation of SC01</message>
 
 </version>
