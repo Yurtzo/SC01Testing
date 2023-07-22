@@ -1,6 +1,6 @@
 <plugin>
 
-<pluginname>FECipher0</pluginname>
+<pluginname>SC01</pluginname>
 
 <deckzone>
 	<label>Deck</label>
