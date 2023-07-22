@@ -1,2 +1,0 @@
-CardImageURLs:	
-SC01/SC01-007 https://github.com/Yurtzo/SC01Testing/blob/main/sets/setimages/SC01/SC01-007.jpg
