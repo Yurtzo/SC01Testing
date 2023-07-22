@@ -1,7 +1,7 @@
 SC01	02-08-23
 plugins/SC01/version.txt	https://dl.dropboxusercontent.com/s/962dgtkb4vcilks/version.txt	28361
 plugins/SC01/formats.txt	https://dl.dropboxusercontent.com/s/3hfz2o0by70f5pm/formats.txt	254968
-plugins/SC01/plugininfo.txt	https://dl.dropboxusercontent.com/s/2j97reiqhc0q2o0/plugininfo.txt	341791
+plugins/SC01/plugininfo.txt	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/plugininfo.txt	341791
 plugins/SC01/uninstall.txt	https://dl.dropboxusercontent.com/s/78blqth7om4hd4q/uninstall.txt	9734
 plugins/SC01/CardImageURLs1.txt	https://dl.dropboxusercontent.com/s/twsprwmt3o5hmuu/CardImageURLs1.txt	493194
 plugins/SC01/CardImageURLs2.txt	https://dl.dropboxusercontent.com/s/rq7ho6wfzjtoszo/CardImageURLs2.txt	3236797
