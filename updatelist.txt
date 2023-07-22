@@ -1,16 +1,16 @@
 SC01	02-08-23
 plugins/SC01/version.txt	https://dl.dropboxusercontent.com/s/962dgtkb4vcilks/version.txt	28361
 plugins/SC01/formats.txt	https://dl.dropboxusercontent.com/s/3hfz2o0by70f5pm/formats.txt	254968
-plugins/SC01/plugininfo.txt	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/plugininfo.txt	341791
+plugins/SC01/plugininfo.txt	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/plugininfo.txt	341248
 plugins/SC01/uninstall.txt	https://dl.dropboxusercontent.com/s/78blqth7om4hd4q/uninstall.txt	9734
 plugins/SC01/CardImageURLs1.txt	https://dl.dropboxusercontent.com/s/twsprwmt3o5hmuu/CardImageURLs1.txt	493194
-plugins/SC01/CardImageURLs2.txt	https://dl.dropboxusercontent.com/s/rq7ho6wfzjtoszo/CardImageURLs2.txt	3236797
+plugins/SC01/CardImageURLs2.txt	https://dl.dropboxusercontent.com/s/rq7ho6wfzjtoszo/CardImageURLs2.txt	3240234
 plugins/SC01/CardImageURLs3.txt	https://dl.dropboxusercontent.com/s/z3fet7lcojsrwmf/CardImageURLs3.txt	30820596
-plugins/SC01/CardImageURLs4.txt	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/CardImageURLs4.txt	30820300
+plugins/SC01/CardImageURLs4.txt	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/CardImageURLs4.txt	38431
 plugins/SC01/defaultchat.txt	https://dl.dropboxusercontent.com/s/vfwbqce44o7npkc/defaultchat.txt	14975
 plugins/SC01/sets/cardback.jpg	https://dl.dropboxusercontent.com/s/0x3rzwap53ohys5/cardback.jpg	-149634
-plugins/SC01/sets/custom-cards.txt	https://dl.dropboxusercontent.com/s/y4npw5wz7u3t413/custom-cards.txt	19233286
-plugins/SC01/sets/custom-cards_SC01.txt	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/sets/custom-cards_SC01.txt	19233300
+plugins/SC01/sets/custom-cards.txt	https://dl.dropboxusercontent.com/s/y4npw5wz7u3t413/custom-cards.txt	19188716
+plugins/SC01/sets/custom-cards_SC01.txt	https://raw.githubusercontent.com/Yurtzo/SC01Testing/main/sets/custom-cards_SC01.txt	184731
 plugins/SC01/sets/official-cards.txt	https://dl.dropboxusercontent.com/s/xjcvz08rfi30soy/official-cards.txt	99207996
 plugins/SC01/sets/specials-tokens.txt	https://dl.dropboxusercontent.com/s/8i0xsjotwypddqb/specials-tokens.txt	504983
 images/backgrounds/defaultbackground.jpg	https://dl.dropboxusercontent.com/s/g1vfzlulouzblg6/defaultbackground.jpg	-1136987
