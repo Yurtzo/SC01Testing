@@ -54,7 +54,7 @@ plugins/SC01/packs/B19.png	https://dl.dropboxusercontent.com/s/p1kqhxbmw4ann3n/B
 plugins/SC01/packs/B20.png	https://dl.dropboxusercontent.com/s/zp3kgwio28sacp4/B20.png	5505231
 plugins/SC01/packs/B21.png	https://dl.dropboxusercontent.com/s/vllvqewettcv3h0/B21.png	5670337
 plugins/SC01/packs/B22.png	https://dl.dropboxusercontent.com/s/3riww9ekcpzbnuh/B22.png	5643755
-CardImageURLs:	
+CardURLFiles:	
 CardImageURLs1.txt
 CardImageURLs2.txt
 CardImageURLs3.txt
